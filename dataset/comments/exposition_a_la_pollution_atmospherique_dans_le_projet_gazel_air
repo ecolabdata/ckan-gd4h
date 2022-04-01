@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<!--[if IE 9]> <html lang="fr" class="ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="fr"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+      <meta name="generator" content="ckan 2.9.4" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comments - Exposition à la pollution atmosphérique dans le projet Gazel&#39;Air - Jeu de données - Green Data For Health</title>
+
+    
+    <link rel="shortcut icon" href="../../base/images/ckan.ico" />
+    
+  
+      
+      
+      
+      
+    
+  
+
+
+    
+      
+      
+    
+  
+  <meta property="og:title" content="Exposition à la pollution atmosphérique dans le projet Gazel&#39;Air - Green Data For Health">
+  <meta property="og:description" content="">
+
+
+    
+    <link href="../../webassets/base/eddf841d_green.css" rel="stylesheet"/>
+<link href="../../webassets/ckanext-scheming/2deda21a_scheming_css.css" rel="stylesheet"/>
+    
+  </head>
+
+  
+  <body data-site-root="http://51.159.37.182:8080/" data-locale-root="http://51.159.37.182:8080/" >
+
+    
+    <div class="sr-only sr-only-focusable"><a href="exposition_a_la_pollution_atmospherique_dans_le_projet_gazel_air#content">Passer directement au contenu</a></div>
+  
+
+  
+     
+<div class="account-masthead">
+  <div class="container">
+     
+    <nav class="account not-authed" aria-label="Account">
+      <ul class="list-unstyled">
+        
+        <li><a href="../../user/login">Connexion</a></li>
+        
+        <li><a class="sub" href="../../user/register">S'inscrire</a></li>
+         
+      </ul>
+    </nav>
+     
+  </div>
+</div>
+
+<header class="navbar navbar-static-top masthead">
+    
+  <div class="container">
+    <div class="navbar-right">
+      <button data-target="#main-navigation-toggle" data-toggle="collapse" class="navbar-toggle collapsed" type="button" aria-label="expand or collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="fa fa-bars"></span>
+      </button>
+    </div>
+    <hgroup class="header-image navbar-left">
+       
+      <a class="logo" href="../../index.html"><img src="../../uploads/admin/2021-11-15-132638.132117CGDD.png" alt="Green Data For Health" title="Green Data For Health" /></a>
+       
+    </hgroup>
+
+    <div class="collapse navbar-collapse" id="main-navigation-toggle">
+      
+      <nav class="section navigation">
+        <ul class="nav nav-pills">
+            
+    <li><a href="../../portal/index.html">Portals</a></li><li><a href="../index.html">Jeux de données</a></li><li><a href="../../organization/index.html">Organisations</a></li><li><a href="../../about">À propos</a></li>
+
+        </ul>
+      </nav>
+       
+      <form class="section site-search simple-input" action="../index.html" method="get">
+        <div class="field">
+          <label for="field-sitewide-search">Rechercher des jeux de données</label>
+          <input id="field-sitewide-search" type="text" class="form-control" name="q" placeholder="Rechercher" aria-label="Chercher des jeux de données"/>
+          <button class="btn-search" type="submit" aria-label="Submit"><i class="fa fa-search"></i></button>
+        </div>
+      </form>
+      
+    </div>
+  </div>
+</header>
+
+  
+    <div class="main">
+      <div id="content" class="container">
+        
+          
+            <div class="flash-messages">
+              
+                
+              
+            </div>
+          
+
+          
+            <div class="toolbar" role="navigation" aria-label="Breadcrumb">
+              
+                
+                  <ol class="breadcrumb">
+                    
+<li class="home"><a href="../../index.html" aria-label="Accueil"><i class="fa fa-home"></i><span> Accueil</span></a></li>
+                    
+  
+    
+    
+      
+      
+      <li><a href="../../organization/index.html">Organisations</a></li>
+      <li><a href="../../organization/sante_publique_france">Sante publique France</a></li>
+    
+    <li class="active"><a href="../exposition_a_la_pollution_atmospherique_dans_le_projet_gazel_air">Exposition à la pollution...</a></li>
+  
+
+                  </ol>
+                
+              
+            </div>
+          
+
+          <div class="row wrapper">
+            
+            
+            
+
+            
+              <aside class="secondary col-sm-3">
+                
+                
+
+  
+
+  
+    
+
+  
+    <section class="module module-narrow">
+      <div class="module context-info">
+        <div class="module-content">
+          
+            
+              <h1 class="heading">Exposition à la pollution atmosphérique dans le projet Gazel&#39;Air</h1>
+            
+            
+              
+              <div class="nums">
+                <dl>
+                  <dt>Abonnés</dt>
+                  <dd data-module="followers-counter" data-module-id="51e4586e-6dda-471e-a2f7-82d3a151ee44" data-module-num_followers="0"><span>0</span></dd>
+                </dl>
+              </div>
+            
+            
+              
+                <div class="follow_button">
+                  
+                </div>
+              
+            
+          
+        </div>
+      </div>
+    </section>
+  
+
+  
+
+  
+    
+      
+      
+
+
+
+
+  
+  <div class="module module-narrow module-shallow context-info">
+    
+      <h2 class="module-heading"><i class="fa fa-building-o"></i> Organisation</h2>
+    
+    <section class="module-content">
+      
+      
+        <div class="image">
+          <a href="../../organization/sante_publique_france">
+            <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Sante-publique-France-logo.svg/1200px-Sante-publique-France-logo.svg.png" width="200" alt="sante_publique_france" />
+          </a>
+        </div>
+      
+      
+      <h1 class="heading">Sante publique France
+        
+      </h1>
+      
+      
+      
+        <p class="empty">Il n'y a pas de description pour cette organisation</p>
+      
+      
+      
+      
+    </section>
+  </div>
+  
+    
+  
+
+  
+    
+
+  <section class="module module-narrow social">
+    
+      <h2 class="module-heading"><i class="fa fa-share-square-o"></i> Social</h2>
+    
+    
+      <ul class="nav nav-simple">
+        <li class="nav-item"><a href="https://twitter.com/share?url=http://51.159.37.182:8080/dataset/comments/exposition_a_la_pollution_atmospherique_dans_le_projet_gazel_air" target="_blank"><i class="fa fa-twitter-square"></i> Twitter</a></li>
+        <li class="nav-item"><a href="https://www.facebook.com/sharer.php?u=http://51.159.37.182:8080/dataset/comments/exposition_a_la_pollution_atmospherique_dans_le_projet_gazel_air" target="_blank"><i class="fa fa-facebook-square"></i> Facebook</a></li>
+      </ul>
+    
+  </section>
+
+  
+
+  
+    
+
+
+  
+      
+        <section class="module module-narrow module-shallow license">
+          
+            <h2 class="module-heading"><i class="fa fa-lock"></i> Licence</h2>
+          
+          
+            <p class="module-content">
+              
+                
+  
+    
+      <span property="dc:rights">Non renseigné</span>
+    
+  
+
+                
+              
+            </p>
+          
+        </section>
+      
+  
+
+  
+
+
+              </aside>
+            
+
+            
+              <div class="primary col-sm-9 col-xs-12" role="main">
+                
+                
+                  <article class="module">
+                    
+                      <header class="module-content page-header">
+                        
+                        <ul class="nav nav-tabs">
+                          
+  
+  <li><a href="../exposition_a_la_pollution_atmospherique_dans_le_projet_gazel_air"><i class="fa fa-sitemap"></i> Jeu de données</a></li>
+  
+  <li><a href="../activity/exposition_a_la_pollution_atmospherique_dans_le_projet_gazel_air"><i class="fa fa-clock-o"></i> Flux d'Activité</a></li>
+
+  <li class="active"><a href="exposition_a_la_pollution_atmospherique_dans_le_projet_gazel_air"><i class="fa fa-comments"></i> Comments</a></li>
+
+                        </ul>
+                      </header>
+                    
+                    <div class="module-content">
+                      
+                      
+  <h1 class="hide-heading">
+    
+      Comments
+    
+  </h1>
+
+  
+<ul class="activity">
+  
+</ul>
+
+  
+
+<form
+  class="dataset-form form-horizontal"
+  method="post"
+  action="http://gd4h.driss.org:8080/dataset/exposition_a_la_pollution_atmospherique_dans_le_projet_gazel_air/comment/new"
+>
+  
+  
+  
+  
+    
+  
+
+  <fieldset>
+    
+  <div class="form-group control-medium">
+  <label class="control-label" for="field-username"><span title="Ce champ est requis" class="control-required">*</span> Nom d'utilisateur</label>
+  <div class="controls ">
+  
+<input id="field-username" type="text" name="username" value="" placeholder="eg. John Doe"  class="form-control" />
+
+  
+  
+  </div>
+  </div>
+  
+
+    
+  
+  
+  
+  <div class="form-group control-full">
+  <label class="control-label" for="field-comment"><span title="Ce champ est requis" class="control-required">*</span> New Comment</label>
+  <div class="controls editor">
+  
+  <textarea id="field-comment" name="comment" cols="20" rows="5" placeholder="Your new comment here"  class="form-control"></textarea>
+  <span class="editor-info-block">Vous pouvez utiliser <a href="exposition_a_la_pollution_atmospherique_dans_le_projet_gazel_air#markdown" title="Markdown quick reference" data-target="popover" data-content="&lt;pre&gt;&lt;p&gt;__Bold text__ or _italic text_&lt;/p&gt;&lt;p&gt;# title&lt;br&gt;## secondary title&lt;br&gt;### etc&lt;/p&gt;&lt;p&gt;* list&lt;br&gt;* of&lt;br&gt;* items&lt;/p&gt;&lt;p&gt;http://auto.link.ed/&lt;/p&gt;&lt;/pre&gt;&lt;p&gt;&lt;b&gt;&lt;a href=&#39;http://daringfireball.net/projects/markdown/syntax&#39; target=&#39;_blank&#39;&gt;Full markdown syntax&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class=&#39;text-muted&#39;&gt;&lt;b&gt;Please note:&lt;/b&gt; HTML tags are stripped out for security reasons&lt;/p&gt;" data-html="true">le langage Markdown</a> ici</span>
+  
+  
+  
+  </div>
+  </div>
+  
+  
+    
+  </fieldset>
+
+  <div class="form-actions">
+    
+  <p class="control-required-message">
+    <span class="control-required">*</span> Champ requis
+  </p>
+   
+    <button class="btn btn-primary" type="submit" name="save">
+      Publish
+    </button>
+    
+  </div>
+</form>
+
+                    </div>
+                  </article>
+                
+              </div>
+            
+          </div>
+        
+      </div>
+    </div>
+  
+    <footer class="site-footer">
+  <div class="container">
+    
+    <div class="row">
+      <div class="col-md-8 footer-links">
+        
+          <ul class="list-unstyled">
+            
+              <li><a href="../../about">À propos de Green Data For Health</a></li>
+            
+          </ul>
+          <ul class="list-unstyled">
+            
+              
+              <li><a href="http://docs.ckan.org/en/2.9/api/">API CKAN</a></li>
+              <li><a href="http://www.ckan.org/">Association CKAN</a></li>
+              <li><a href="http://www.opendefinition.org/okd/"><img src="../../base/images/od_80x15_blue.png" alt="Open Data"></a></li>
+            
+          </ul>
+        
+      </div>
+      <div class="col-md-4 attribution">
+        
+          <p><strong>Généré par</strong> <a class="hide-text ckan-footer-logo" href="http://ckan.org">CKAN</a></p>
+        
+        
+          
+<form class="form-inline form-select lang-select" action="http://gd4h.driss.org:8080/util/redirect" data-module="select-switch" method="POST">
+  <label for="field-lang-select">Langue</label>
+  <select id="field-lang-select" name="url" data-module="autocomplete" data-module-dropdown-class="lang-dropdown" data-module-container-class="lang-container">
+    
+      <option value="/fr/dataset/comments/exposition_a_la_pollution_atmospherique_dans_le_projet_gazel_air" selected="selected">
+        français
+      </option>
+    
+      <option value="/en/dataset/comments/exposition_a_la_pollution_atmospherique_dans_le_projet_gazel_air" >
+        English
+      </option>
+    
+  </select>
+  <button class="btn btn-default js-hide" type="submit">Go</button>
+</form>
+        
+      </div>
+    </div>
+    
+  </div>
+
+  
+    
+  
+</footer>
+  
+  
+  
+  
+    
+  
+  
+    
+
+      
+
+    
+    
+    <link href="../../webassets/vendor/f3b8236b_select2.css" rel="stylesheet"/>
+<link href="../../webassets/vendor/0b01aef1_font-awesome.css" rel="stylesheet"/>
+    <script src="../../webassets/vendor/d8ae4bed_jquery.js" type="text/javascript"></script>
+<script src="../../webassets/vendor/fb6095a0_vendor.js" type="text/javascript"></script>
+<script src="../../webassets/vendor/580fa18d_bootstrap.js" type="text/javascript"></script>
+<script src="../../webassets/base/5f5a82bb_main.js" type="text/javascript"></script>
+<script src="../../webassets/base/919ae274_ckan.js" type="text/javascript"></script>
+<script src="../../webassets/base/cd2c0272_tracking.js" type="text/javascript"></script>
+  </body>
+</html>

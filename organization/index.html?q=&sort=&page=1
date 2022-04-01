@@ -1,0 +1,1013 @@
+<!DOCTYPE html>
+<!--[if IE 9]> <html lang="fr" class="ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="fr"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+      <meta name="generator" content="ckan 2.9.4" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Organisations - Green Data For Health</title>
+
+    
+    <link rel="shortcut icon" href="../base/images/ckan.ico" />
+    
+  
+      
+      
+      
+      
+    
+  
+
+
+    
+      
+      
+    
+
+    
+    <link href="../webassets/base/eddf841d_green.css" rel="stylesheet"/>
+<link href="../webassets/ckanext-scheming/2deda21a_scheming_css.css" rel="stylesheet"/>
+    
+  </head>
+
+  
+  <body data-site-root="http://51.159.37.182:8080/" data-locale-root="http://51.159.37.182:8080/" >
+
+    
+    <div class="sr-only sr-only-focusable"><a href="index.html?q=&amp;sort=&amp;page=1#content">Passer directement au contenu</a></div>
+  
+
+  
+     
+<div class="account-masthead">
+  <div class="container">
+     
+    <nav class="account not-authed" aria-label="Account">
+      <ul class="list-unstyled">
+        
+        <li><a href="../user/login">Connexion</a></li>
+        
+        <li><a class="sub" href="../user/register">S'inscrire</a></li>
+         
+      </ul>
+    </nav>
+     
+  </div>
+</div>
+
+<header class="navbar navbar-static-top masthead">
+    
+  <div class="container">
+    <div class="navbar-right">
+      <button data-target="#main-navigation-toggle" data-toggle="collapse" class="navbar-toggle collapsed" type="button" aria-label="expand or collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="fa fa-bars"></span>
+      </button>
+    </div>
+    <hgroup class="header-image navbar-left">
+       
+      <a class="logo" href="../index.html"><img src="../uploads/admin/2021-11-15-132638.132117CGDD.png" alt="Green Data For Health" title="Green Data For Health" /></a>
+       
+    </hgroup>
+
+    <div class="collapse navbar-collapse" id="main-navigation-toggle">
+      
+      <nav class="section navigation">
+        <ul class="nav nav-pills">
+            
+    <li><a href="../portal/index.html">Portals</a></li><li><a href="../dataset/index.html">Jeux de données</a></li><li class="active"><a href="index.html">Organisations</a></li><li><a href="../about">À propos</a></li>
+
+        </ul>
+      </nav>
+       
+      <form class="section site-search simple-input" action="../dataset/index.html" method="get">
+        <div class="field">
+          <label for="field-sitewide-search">Rechercher des jeux de données</label>
+          <input id="field-sitewide-search" type="text" class="form-control" name="q" placeholder="Rechercher" aria-label="Chercher des jeux de données"/>
+          <button class="btn-search" type="submit" aria-label="Submit"><i class="fa fa-search"></i></button>
+        </div>
+      </form>
+      
+    </div>
+  </div>
+</header>
+
+  
+    <div class="main">
+      <div id="content" class="container">
+        
+          
+            <div class="flash-messages">
+              
+                
+              
+            </div>
+          
+
+          
+            <div class="toolbar" role="navigation" aria-label="Breadcrumb">
+              
+                
+                  <ol class="breadcrumb">
+                    
+<li class="home"><a href="../index.html" aria-label="Accueil"><i class="fa fa-home"></i><span> Accueil</span></a></li>
+                    
+  <li class="active"><a href="index.html">Organisations</a></li>
+
+                  </ol>
+                
+              
+            </div>
+          
+
+          <div class="row wrapper">
+            
+            
+            
+
+            
+              <aside class="secondary col-sm-3">
+                
+                
+  <div class="module module-narrow module-shallow">
+  <h2 class="module-heading">
+    <i class="fa fa-info-circle"></i>
+    Que sont les organisations ?
+  </h2>
+  <div class="module-content">
+    <p>
+      Les Organisations CKAN sont utilisées pour créer, gérer et publier des collections de jeux de données. Les utilisateurs peuvent avoir différents rôles au sein d'une Organisation, en fonction de leur niveau d'autorisation pour créer, éditer et publier.
+    </p>
+  </div>
+</div>
+
+              </aside>
+            
+
+            
+              <div class="primary col-sm-9 col-xs-12" role="main">
+                
+                
+                  <article class="module">
+                    
+                    <div class="module-content">
+                      
+                      
+  <h1 class="hide-heading">Organisations</h1>
+  
+    
+
+
+
+
+
+
+
+<form id="organization-search-form" class="search-form no-bottom-border" method="get" data-module="select-switch">
+
+  
+    <div class="input-group search-input-group">
+      <input aria-label="Rechercher les organisations..." id="field-giant-search" type="text" class="form-control input-lg" name="q" value="" autocomplete="off" placeholder="Rechercher les organisations...">
+      
+      <span class="input-group-btn">
+        <button class="btn btn-default btn-lg" type="submit" value="search" aria-label="Submit">
+          <i class="fa fa-search"></i>
+        </button>
+      </span>
+      
+    </div>
+  
+
+  
+    
+  
+
+  
+    
+      <div class="form-select form-group control-order-by">
+        <label for="field-order-by">Trier par</label>
+        <select id="field-order-by" name="sort" class="form-control">
+          
+            
+              <option value="title asc">Nom croissant</option>
+            
+          
+            
+              <option value="title desc">Nom décroissant</option>
+            
+          
+        </select>
+        
+        <button class="btn btn-default js-hide" type="submit">Go</button>
+        
+      </div>
+    
+  
+
+  
+    
+      <h1>
+
+  
+  
+  
+  
+
+44 organisations trouvées</h1>
+    
+  
+
+  
+    
+  
+
+</form>
+
+
+
+
+  
+  
+    
+      
+        
+
+<ul class="media-grid" data-module="media-grid">
+  
+  
+    
+
+
+<li class="media-item">
+  
+  
+    <img src="https://www.acoucite.org/IMG/Logos/Logo-acoucite.png" alt="acoucite" class="img-responsive media-image">
+  
+  
+    <h2 class="media-heading">Acoucité</h2>
+  
+  
+    
+  
+  
+    
+      <strong class="count">2 Jeux de données</strong>
+    
+  
+  
+    
+  
+  
+  <a href="acoucite" title="Voir Acoucité" class="media-view">
+    <span>Voir Acoucité</span>
+  </a>
+  
+  
+</li>
+
+
+  
+    
+
+
+<li class="media-item">
+  
+  
+    <img src="https://www.acoucite.org/IMG/Logos/Logo-acoucite.png" alt="acoucite_atmo" class="img-responsive media-image">
+  
+  
+    <h2 class="media-heading">Acoucité ATMO</h2>
+  
+  
+    
+  
+  
+    
+      <strong class="count">1 Jeu de données</strong>
+    
+  
+  
+    
+  
+  
+  <a href="acoucite_atmo" title="Voir Acoucité ATMO" class="media-view">
+    <span>Voir Acoucité ATMO</span>
+  </a>
+  
+  
+</li>
+
+
+  
+    
+
+
+<li class="media-item">
+  
+  
+    <img src="http://www.acta.asso.fr/typo3conf/ext/atol_acta_ts/Resources/Public/Images/logo.png" alt="acta___dgal" class="img-responsive media-image">
+  
+  
+    <h2 class="media-heading">ACTA / DGAL</h2>
+  
+  
+    
+      <p class="media-description">Association de coordination technique agricole / Direction générale de...</p>
+    
+  
+  
+    
+      <strong class="count">1 Jeu de données</strong>
+    
+  
+  
+    
+  
+  
+  <a href="acta___dgal" title="Voir ACTA / DGAL" class="media-view">
+    <span>Voir ACTA / DGAL</span>
+  </a>
+  
+  
+</li>
+
+
+  <li class="clearfix js-hide"></li>
+
+  
+    
+
+
+<li class="media-item">
+  
+  
+    <img src="https://www.ademe.fr/sites/default/files/logoademe2020_rvb.png" alt="ademe" class="img-responsive media-image">
+  
+  
+    <h2 class="media-heading">ADEME</h2>
+  
+  
+    
+  
+  
+    
+      <strong class="count">2 Jeux de données</strong>
+    
+  
+  
+    
+  
+  
+  <a href="ademe" title="Voir ADEME" class="media-view">
+    <span>Voir ADEME</span>
+  </a>
+  
+  
+</li>
+
+
+  
+    
+
+
+<li class="media-item">
+  
+  
+    <img src="https://www.ineris.fr/sites/ineris.fr/files/ineris_portail.jpg" alt="afb___ineris" class="img-responsive media-image">
+  
+  
+    <h2 class="media-heading">AFB / INERIS</h2>
+  
+  
+    
+      <p class="media-description">Office français de la biodiversité / Institut national de l'environnement...</p>
+    
+  
+  
+    
+      <strong class="count">1 Jeu de données</strong>
+    
+  
+  
+    
+  
+  
+  <a href="afb___ineris" title="Voir AFB / INERIS" class="media-view">
+    <span>Voir AFB / INERIS</span>
+  </a>
+  
+  
+</li>
+
+
+  
+    
+
+
+<li class="media-item">
+  
+  
+    <img src="https://aides-redevances.eau-loire-bretagne.fr/files/live/sites/aides-redevances/files/Information%20-%20Communication/Ressources/LOGO_SitesAelb.png" alt="agence_de_l_eau_loire-bretagne" class="img-responsive media-image">
+  
+  
+    <h2 class="media-heading">Agence de l&#39;eau Loire-Bretagne</h2>
+  
+  
+    
+  
+  
+    
+      <strong class="count">3 Jeux de données</strong>
+    
+  
+  
+    
+  
+  
+  <a href="agence_de_l_eau_loire-bretagne" title="Voir Agence de l&#39;eau Loire-Bretagne" class="media-view">
+    <span>Voir Agence de l&#39;eau Loire-Bretagne</span>
+  </a>
+  
+  
+</li>
+
+
+  <li class="clearfix js-hide"></li>
+
+  
+    
+
+
+<li class="media-item">
+  
+  
+    <img src="https://static.data.gouv.fr/avatars/b2/fa6dc8ae814e4782aec3e6020c2dac.jpg" alt="airparif" class="img-responsive media-image">
+  
+  
+    <h2 class="media-heading">Airparif</h2>
+  
+  
+    
+  
+  
+    
+      <strong class="count">17 Jeux de données</strong>
+    
+  
+  
+    
+  
+  
+  <a href="airparif" title="Voir Airparif" class="media-view">
+    <span>Voir Airparif</span>
+  </a>
+  
+  
+</li>
+
+
+  
+    
+
+
+<li class="media-item">
+  
+  
+    <img src="https://www.andra.fr/themes/contrib/site-static/dist/images/logo-andra.png" alt="andra" class="img-responsive media-image">
+  
+  
+    <h2 class="media-heading">ANDRA</h2>
+  
+  
+    
+      <p class="media-description">Agence nationale pour la gestion des déchets radioactifs</p>
+    
+  
+  
+    
+      <strong class="count">1 Jeu de données</strong>
+    
+  
+  
+    
+  
+  
+  <a href="andra" title="Voir ANDRA" class="media-view">
+    <span>Voir ANDRA</span>
+  </a>
+  
+  
+</li>
+
+
+  
+    
+
+
+<li class="media-item">
+  
+  
+    <img src="https://www.anfr.fr/typo3conf/ext/e_magineurs/res/anfr/ressources/images/logo2.png" alt="anfr" class="img-responsive media-image">
+  
+  
+    <h2 class="media-heading">ANFR</h2>
+  
+  
+    
+      <p class="media-description">Agence Nationale des Fréquences</p>
+    
+  
+  
+    
+      <strong class="count">1 Jeu de données</strong>
+    
+  
+  
+    
+  
+  
+  <a href="anfr" title="Voir ANFR" class="media-view">
+    <span>Voir ANFR</span>
+  </a>
+  
+  
+</li>
+
+
+  <li class="clearfix js-hide"></li>
+
+  
+    
+
+
+<li class="media-item">
+  
+  
+    <img src="https://www.anses.fr/sites/all/themes/custom/anses/logo.svg" alt="anses" class="img-responsive media-image">
+  
+  
+    <h2 class="media-heading">ANSES</h2>
+  
+  
+    
+      <p class="media-description">Agence Nationale Sécurité Sanitaire Alimentaire Nationale</p>
+    
+  
+  
+    
+      <strong class="count">4 Jeux de données</strong>
+    
+  
+  
+    
+  
+  
+  <a href="anses" title="Voir ANSES" class="media-view">
+    <span>Voir ANSES</span>
+  </a>
+  
+  
+</li>
+
+
+  
+    
+
+
+<li class="media-item">
+  
+  
+    <img src="https://www.anses.fr/sites/all/themes/custom/anses/logo.svg" alt="anses___ineris___atmo_france" class="img-responsive media-image">
+  
+  
+    <h2 class="media-heading">ANSES / INERIS / Atmo France</h2>
+  
+  
+    
+      <p class="media-description">Agence Nationale Sécurité Sanitaire Alimentaire Nationale / Institut national...</p>
+    
+  
+  
+    
+      <strong class="count">1 Jeu de données</strong>
+    
+  
+  
+    
+  
+  
+  <a href="anses___ineris___atmo_france" title="Voir ANSES / INERIS / Atmo France" class="media-view">
+    <span>Voir ANSES / INERIS / Atmo France</span>
+  </a>
+  
+  
+</li>
+
+
+  
+    
+
+
+<li class="media-item">
+  
+  
+    <img src="https://www.ign.fr/sites/default/files/styles/thumbnail/public/2020-06/logoIGN_300x200.png?itok=MT8RiLtp" alt="asp___ign" class="img-responsive media-image">
+  
+  
+    <h2 class="media-heading">ASP / IGN</h2>
+  
+  
+    
+      <p class="media-description">Agence de Services et de Paiement / Institut Géographique National</p>
+    
+  
+  
+    
+      <strong class="count">1 Jeu de données</strong>
+    
+  
+  
+    
+  
+  
+  <a href="asp___ign" title="Voir ASP / IGN" class="media-view">
+    <span>Voir ASP / IGN</span>
+  </a>
+  
+  
+</li>
+
+
+  <li class="clearfix js-hide"></li>
+
+  
+    
+
+
+<li class="media-item">
+  
+  
+    <img src="https://www.atlasante.fr/media/site/gen/atlasante/logo-atla-sant-long@2x.png" alt="atlasante" class="img-responsive media-image">
+  
+  
+    <h2 class="media-heading">Atlasanté</h2>
+  
+  
+    
+  
+  
+    
+      <strong class="count">1 Jeu de données</strong>
+    
+  
+  
+    
+  
+  
+  <a href="atlasante" title="Voir Atlasanté" class="media-view">
+    <span>Voir Atlasanté</span>
+  </a>
+  
+  
+</li>
+
+
+  
+    
+
+
+<li class="media-item">
+  
+  
+    <img src="http://51.159.37.182:8080/uploads/group/NaN" alt="atmo_france" class="img-responsive media-image">
+  
+  
+    <h2 class="media-heading">Atmo France
+</h2>
+  
+  
+    
+  
+  
+    
+      <strong class="count">1 Jeu de données</strong>
+    
+  
+  
+    
+  
+  
+  <a href="atmo_france" title="Voir Atmo France
+" class="media-view">
+    <span>Voir Atmo France
+</span>
+  </a>
+  
+  
+</li>
+
+
+  
+    
+
+
+<li class="media-item">
+  
+  
+    <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_BRGM.svg/1200px-Logo_BRGM.svg.png" alt="brgm" class="img-responsive media-image">
+  
+  
+    <h2 class="media-heading">BRGM</h2>
+  
+  
+    
+      <p class="media-description">Bureau de recherches géologiques et minières</p>
+    
+  
+  
+    
+      <strong class="count">8 Jeux de données</strong>
+    
+  
+  
+    
+  
+  
+  <a href="brgm" title="Voir BRGM" class="media-view">
+    <span>Voir BRGM</span>
+  </a>
+  
+  
+</li>
+
+
+  <li class="clearfix js-hide"></li>
+
+  
+    
+
+
+<li class="media-item">
+  
+  
+    <img src="https://pbs.twimg.com/profile_images/1096043777351995398/HEKiyF0n_400x400.png" alt="bruitparif" class="img-responsive media-image">
+  
+  
+    <h2 class="media-heading">Bruitparif</h2>
+  
+  
+    
+  
+  
+    
+      <strong class="count">3 Jeux de données</strong>
+    
+  
+  
+    
+  
+  
+  <a href="bruitparif" title="Voir Bruitparif" class="media-view">
+    <span>Voir Bruitparif</span>
+  </a>
+  
+  
+</li>
+
+
+  
+    
+
+
+<li class="media-item">
+  
+  
+    <img src="http://51.159.37.182:8080/uploads/group/NaN" alt="cerema" class="img-responsive media-image">
+  
+  
+    <h2 class="media-heading">Cerema</h2>
+  
+  
+    
+  
+  
+    
+      <strong class="count">1 Jeu de données</strong>
+    
+  
+  
+    
+  
+  
+  <a href="cerema" title="Voir Cerema" class="media-view">
+    <span>Voir Cerema</span>
+  </a>
+  
+  
+</li>
+
+
+  
+    
+
+
+<li class="media-item">
+  
+  
+    <img src="https://www.douane.gouv.fr/themes/custom/portail_externe/assets/images/DGDDI_2020_RVB.svg" alt="direction_generale_des_douanes_et_droits_indirects" class="img-responsive media-image">
+  
+  
+    <h2 class="media-heading">Direction générale des douanes et droits indirects</h2>
+  
+  
+    
+  
+  
+    
+      <span class="count">0 Jeu de données </span>
+    
+  
+  
+    
+  
+  
+  <a href="direction_generale_des_douanes_et_droits_indirects" title="Voir Direction générale des douanes et droits indirects" class="media-view">
+    <span>Voir Direction générale des douanes et droits indirects</span>
+  </a>
+  
+  
+</li>
+
+
+  <li class="clearfix js-hide"></li>
+
+  
+    
+
+
+<li class="media-item">
+  
+  
+    <img src="https://www.valabre.com/wp-content/uploads/logo-valabre-horizontal.svg" alt="entente_valabre" class="img-responsive media-image">
+  
+  
+    <h2 class="media-heading">Entente Valabre</h2>
+  
+  
+    
+  
+  
+    
+      <strong class="count">1 Jeu de données</strong>
+    
+  
+  
+    
+  
+  
+  <a href="entente_valabre" title="Voir Entente Valabre" class="media-view">
+    <span>Voir Entente Valabre</span>
+  </a>
+  
+  
+</li>
+
+
+  
+    
+
+
+<li class="media-item">
+  
+  
+    <img src="http://51.159.37.182:8080/uploads/group/NaN" alt="geoderis_mtes_brgm_ineris" class="img-responsive media-image">
+  
+  
+    <h2 class="media-heading">GEODERIS (MTES/BRGM/INERIS)</h2>
+  
+  
+    
+  
+  
+    
+      <strong class="count">1 Jeu de données</strong>
+    
+  
+  
+    
+  
+  
+  <a href="geoderis_mtes_brgm_ineris" title="Voir GEODERIS (MTES/BRGM/INERIS)" class="media-view">
+    <span>Voir GEODERIS (MTES/BRGM/INERIS)</span>
+  </a>
+  
+  
+</li>
+
+
+  
+   
+</ul>
+
+      
+    
+  
+  
+    <div class="pagination-wrapper">
+  <ul class="pagination"> <li class="active">
+  <a href="index.html?q=&amp;sort=&amp;page=1">1</a>
+</li> <li>
+  <a href="index.html?q=&amp;sort=&amp;page=2">2</a>
+</li> <li>
+  <a href="index.html?q=&amp;sort=&amp;page=3">3</a>
+</li> <li>
+  <a href="index.html?q=&amp;sort=&amp;page=2">»</a>
+</li></ul>
+</div>
+  
+
+                    </div>
+                  </article>
+                
+              </div>
+            
+          </div>
+        
+      </div>
+    </div>
+  
+    <footer class="site-footer">
+  <div class="container">
+    
+    <div class="row">
+      <div class="col-md-8 footer-links">
+        
+          <ul class="list-unstyled">
+            
+              <li><a href="../about">À propos de Green Data For Health</a></li>
+            
+          </ul>
+          <ul class="list-unstyled">
+            
+              
+              <li><a href="http://docs.ckan.org/en/2.9/api/">API CKAN</a></li>
+              <li><a href="http://www.ckan.org/">Association CKAN</a></li>
+              <li><a href="http://www.opendefinition.org/okd/"><img src="../base/images/od_80x15_blue.png" alt="Open Data"></a></li>
+            
+          </ul>
+        
+      </div>
+      <div class="col-md-4 attribution">
+        
+          <p><strong>Généré par</strong> <a class="hide-text ckan-footer-logo" href="http://ckan.org">CKAN</a></p>
+        
+        
+          
+<form class="form-inline form-select lang-select" action="http://gd4h.driss.org:8080/util/redirect" data-module="select-switch" method="POST">
+  <label for="field-lang-select">Langue</label>
+  <select id="field-lang-select" name="url" data-module="autocomplete" data-module-dropdown-class="lang-dropdown" data-module-container-class="lang-container">
+    
+      <option value="/fr/organization/?q=&amp;sort=&amp;page=1" selected="selected">
+        français
+      </option>
+    
+      <option value="/en/organization/?q=&amp;sort=&amp;page=1" >
+        English
+      </option>
+    
+  </select>
+  <button class="btn btn-default js-hide" type="submit">Go</button>
+</form>
+        
+      </div>
+    </div>
+    
+  </div>
+
+  
+    
+  
+</footer>
+  
+  
+  
+  
+    
+  
+  
+    
+
+      
+
+    
+    
+    <link href="../webassets/vendor/f3b8236b_select2.css" rel="stylesheet"/>
+<link href="../webassets/vendor/0b01aef1_font-awesome.css" rel="stylesheet"/>
+    <script src="../webassets/vendor/d8ae4bed_jquery.js" type="text/javascript"></script>
+<script src="../webassets/vendor/fb6095a0_vendor.js" type="text/javascript"></script>
+<script src="../webassets/vendor/580fa18d_bootstrap.js" type="text/javascript"></script>
+<script src="../webassets/base/5f5a82bb_main.js" type="text/javascript"></script>
+<script src="../webassets/base/919ae274_ckan.js" type="text/javascript"></script>
+<script src="../webassets/base/cd2c0272_tracking.js" type="text/javascript"></script>
+  </body>
+</html>

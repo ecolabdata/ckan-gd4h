@@ -1,0 +1,687 @@
+<!DOCTYPE html>
+<!--[if IE 9]> <html lang="fr" class="ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="fr"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+      <meta name="generator" content="ckan 2.9.4" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flux d'Activité - Météo-France - Organisations - Green Data For Health</title>
+
+    
+    
+  <link rel="shortcut icon" href="../../../base/images/ckan.ico" />
+    
+  <link rel="alternate" type="application/atom+xml" title="Green Data For Health - Jeux de données de l'organisation : Météo-France" href="../../../feeds/organization/meteo-france.atom" />
+
+  
+      
+      
+      
+      
+    
+  
+
+
+    
+      
+      
+    
+
+    
+    <link href="../../../webassets/base/eddf841d_green.css" rel="stylesheet"/>
+<link href="../../../webassets/ckanext-scheming/2deda21a_scheming_css.css" rel="stylesheet"/>
+    
+  </head>
+
+  
+  <body data-site-root="http://51.159.37.182:8080/" data-locale-root="http://51.159.37.182:8080/" >
+
+    
+    <div class="sr-only sr-only-focusable"><a href="0#content">Passer directement au contenu</a></div>
+  
+
+  
+     
+<div class="account-masthead">
+  <div class="container">
+     
+    <nav class="account not-authed" aria-label="Account">
+      <ul class="list-unstyled">
+        
+        <li><a href="../../../user/login">Connexion</a></li>
+        
+        <li><a class="sub" href="../../../user/register">S'inscrire</a></li>
+         
+      </ul>
+    </nav>
+     
+  </div>
+</div>
+
+<header class="navbar navbar-static-top masthead">
+    
+  <div class="container">
+    <div class="navbar-right">
+      <button data-target="#main-navigation-toggle" data-toggle="collapse" class="navbar-toggle collapsed" type="button" aria-label="expand or collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="fa fa-bars"></span>
+      </button>
+    </div>
+    <hgroup class="header-image navbar-left">
+       
+      <a class="logo" href="../../../index.html"><img src="../../../uploads/admin/2021-11-15-132638.132117CGDD.png" alt="Green Data For Health" title="Green Data For Health" /></a>
+       
+    </hgroup>
+
+    <div class="collapse navbar-collapse" id="main-navigation-toggle">
+      
+      <nav class="section navigation">
+        <ul class="nav nav-pills">
+            
+    <li><a href="../../../portal/index.html">Portals</a></li><li><a href="../../../dataset/index.html">Jeux de données</a></li><li><a href="../../index.html">Organisations</a></li><li><a href="../../../about">À propos</a></li>
+
+        </ul>
+      </nav>
+       
+      <form class="section site-search simple-input" action="../../../dataset/index.html" method="get">
+        <div class="field">
+          <label for="field-sitewide-search">Rechercher des jeux de données</label>
+          <input id="field-sitewide-search" type="text" class="form-control" name="q" placeholder="Rechercher" aria-label="Chercher des jeux de données"/>
+          <button class="btn-search" type="submit" aria-label="Submit"><i class="fa fa-search"></i></button>
+        </div>
+      </form>
+      
+    </div>
+  </div>
+</header>
+
+  
+    <div class="main">
+      <div id="content" class="container">
+        
+          
+            <div class="flash-messages">
+              
+                
+              
+            </div>
+          
+
+          
+            <div class="toolbar" role="navigation" aria-label="Breadcrumb">
+              
+                
+                  <ol class="breadcrumb">
+                    
+<li class="home"><a href="../../../index.html" aria-label="Accueil"><i class="fa fa-home"></i><span> Accueil</span></a></li>
+                    
+  <li><a href="../../index.html">Organisations</a></li>
+  <li class="active"><a href="../../meteo-france">Météo-France</a></li>
+
+                  </ol>
+                
+              
+            </div>
+          
+
+          <div class="row wrapper">
+            
+            
+            
+
+            
+              <aside class="secondary col-sm-3">
+                
+                
+  
+
+
+
+
+  
+  <div class="module module-narrow module-shallow context-info">
+    
+    <section class="module-content">
+      
+      
+        <div class="image">
+          <a href="../../meteo-france">
+            <img src="https://meteofrance.com/sites/meteofrance.com/files/logo/logo_small_0.png" width="200" alt="meteo-france" />
+          </a>
+        </div>
+      
+      
+      <h1 class="heading">Météo-France
+        
+      </h1>
+      
+      
+      
+        <p class="empty">Il n'y a pas de description pour cette organisation</p>
+      
+      
+      
+        
+        <div class="nums">
+          <dl>
+            <dt>Abonnés</dt>
+            <dd data-module="followers-counter" data-module-id="4726de0a-d178-4b37-abb4-f5c67f8d2c59" data-module-num_followers="0"><span>0</span></dd>
+          </dl>
+          <dl>
+            <dt>Jeux de données</dt>
+            <dd><span>6</span></dd>
+          </dl>
+        </div>
+        
+        
+        <div class="follow_button">
+          
+        </div>
+        
+      
+      
+    </section>
+  </div>
+  
+  
+
+              </aside>
+            
+
+            
+              <div class="primary col-sm-9 col-xs-12" role="main">
+                
+                
+                  <article class="module">
+                    
+                      <header class="module-content page-header">
+                        
+                        <ul class="nav nav-tabs">
+                          
+  <li><a href="../../meteo-france"><i class="fa fa-sitemap"></i> Jeux de données</a></li>
+  <li class="active"><a href="0"><i class="fa fa-clock-o"></i> Flux d'Activité</a></li>
+  <li><a href="../../about/meteo-france"><i class="fa fa-info-circle"></i> À propos</a></li>
+
+                        </ul>
+                      </header>
+                    
+                    <div class="module-content">
+                      
+                      
+  <h1 class="hide-heading">
+    Flux d'Activité
+  </h1>
+  
+
+
+
+
+
+
+
+
+
+
+
+  <ul class="activity">
+  
+  
+
+<li class="item changed-package">
+  <i class="fa icon fa-sitemap"></i>
+  <p>
+    
+  <span class="actor">
+    <img src="http://gravatar.com/avatar/0c17bf66e649070167701d2d3cd71711?s=30&amp;d=identicon"
+        class="user-image" width="30" height="30" alt="Gravatar" /> <a href="http://gd4h.driss.org:8080/user/wavestone">wavestone</a>
+  </span>
+ a mis à jour le jeu de données 
+  
+  <span class="dataset">
+    <a href="../../../dataset/440791dd-7236-483d-a82c-8911709d4cfc">Données de modèle atmosphérique à aire limitée</a>
+    
+  </span>
+
+    <br />
+    <span class="date" title="novembre 9, 2021, 11:14 (+0100)">
+      il y a 5 mois
+      
+        &nbsp;|&nbsp;
+        <a href="../../../dataset/440791dd-7236-483d-a82c-8911709d4cfc?activity_id=7ec78674-d26b-4b88-8a28-9fc28f030a4f">
+          View this version
+        </a>
+        &nbsp;|&nbsp;
+        <a href="../../../dataset/changes/7ec78674-d26b-4b88-8a28-9fc28f030a4f">
+          Modifications
+        </a>
+      
+    </span>
+  </p>
+</li>
+
+<li class="item changed-package">
+  <i class="fa icon fa-sitemap"></i>
+  <p>
+    
+  <span class="actor">
+    <img src="http://gravatar.com/avatar/0c17bf66e649070167701d2d3cd71711?s=30&amp;d=identicon"
+        class="user-image" width="30" height="30" alt="Gravatar" /> <a href="http://gd4h.driss.org:8080/user/wavestone">wavestone</a>
+  </span>
+ a mis à jour le jeu de données 
+  
+  <span class="dataset">
+    <a href="../../../dataset/ee66e25c-937f-4bae-a4c6-01f474149d1f">Données de modèle Arpège essentielles OMM</a>
+    
+  </span>
+
+    <br />
+    <span class="date" title="novembre 9, 2021, 11:14 (+0100)">
+      il y a 5 mois
+      
+        &nbsp;|&nbsp;
+        <a href="../../../dataset/ee66e25c-937f-4bae-a4c6-01f474149d1f?activity_id=3fe805fe-4a16-4021-8f1e-3dc5ca7c21c4">
+          View this version
+        </a>
+        &nbsp;|&nbsp;
+        <a href="../../../dataset/changes/3fe805fe-4a16-4021-8f1e-3dc5ca7c21c4">
+          Modifications
+        </a>
+      
+    </span>
+  </p>
+</li>
+
+<li class="item changed-package">
+  <i class="fa icon fa-sitemap"></i>
+  <p>
+    
+  <span class="actor">
+    <img src="http://gravatar.com/avatar/0c17bf66e649070167701d2d3cd71711?s=30&amp;d=identicon"
+        class="user-image" width="30" height="30" alt="Gravatar" /> <a href="http://gd4h.driss.org:8080/user/wavestone">wavestone</a>
+  </span>
+ a mis à jour le jeu de données 
+  
+  <span class="dataset">
+    <a href="../../../dataset/210d1b4c-1c29-41fb-a64c-350c87886204">Données de modèle de prévision d'ensemble ARPEGE</a>
+    
+  </span>
+
+    <br />
+    <span class="date" title="novembre 9, 2021, 11:14 (+0100)">
+      il y a 5 mois
+      
+        &nbsp;|&nbsp;
+        <a href="../../../dataset/210d1b4c-1c29-41fb-a64c-350c87886204?activity_id=1d9f3ab4-b431-4066-a3f2-a97e21227a68">
+          View this version
+        </a>
+        &nbsp;|&nbsp;
+        <a href="../../../dataset/changes/1d9f3ab4-b431-4066-a3f2-a97e21227a68">
+          Modifications
+        </a>
+      
+    </span>
+  </p>
+</li>
+
+<li class="item changed-package">
+  <i class="fa icon fa-sitemap"></i>
+  <p>
+    
+  <span class="actor">
+    <img src="http://gravatar.com/avatar/0c17bf66e649070167701d2d3cd71711?s=30&amp;d=identicon"
+        class="user-image" width="30" height="30" alt="Gravatar" /> <a href="http://gd4h.driss.org:8080/user/wavestone">wavestone</a>
+  </span>
+ a mis à jour le jeu de données 
+  
+  <span class="dataset">
+    <a href="../../../dataset/ba300ad1-6d8d-45d9-bbe4-946b91306ed6">Modèle global de chimie atmosphérique et de transport</a>
+    
+  </span>
+
+    <br />
+    <span class="date" title="novembre 9, 2021, 11:14 (+0100)">
+      il y a 5 mois
+      
+        &nbsp;|&nbsp;
+        <a href="../../../dataset/ba300ad1-6d8d-45d9-bbe4-946b91306ed6?activity_id=ab17b7fe-caf2-4658-8889-25d24b7e80eb">
+          View this version
+        </a>
+        &nbsp;|&nbsp;
+        <a href="../../../dataset/changes/ab17b7fe-caf2-4658-8889-25d24b7e80eb">
+          Modifications
+        </a>
+      
+    </span>
+  </p>
+</li>
+
+<li class="item changed-package">
+  <i class="fa icon fa-sitemap"></i>
+  <p>
+    
+  <span class="actor">
+    <img src="http://gravatar.com/avatar/0c17bf66e649070167701d2d3cd71711?s=30&amp;d=identicon"
+        class="user-image" width="30" height="30" alt="Gravatar" /> <a href="http://gd4h.driss.org:8080/user/wavestone">wavestone</a>
+  </span>
+ a mis à jour le jeu de données 
+  
+  <span class="dataset">
+    <a href="../../../dataset/c1422f5c-e975-4a26-930f-df2349bc6c82">Données horaires</a>
+    
+  </span>
+
+    <br />
+    <span class="date" title="novembre 9, 2021, 11:14 (+0100)">
+      il y a 5 mois
+      
+        &nbsp;|&nbsp;
+        <a href="../../../dataset/c1422f5c-e975-4a26-930f-df2349bc6c82?activity_id=115cdc31-8357-41dd-a70f-201ca512e166">
+          View this version
+        </a>
+        &nbsp;|&nbsp;
+        <a href="../../../dataset/changes/115cdc31-8357-41dd-a70f-201ca512e166">
+          Modifications
+        </a>
+      
+    </span>
+  </p>
+</li>
+
+<li class="item changed-package">
+  <i class="fa icon fa-sitemap"></i>
+  <p>
+    
+  <span class="actor">
+    <img src="http://gravatar.com/avatar/0c17bf66e649070167701d2d3cd71711?s=30&amp;d=identicon"
+        class="user-image" width="30" height="30" alt="Gravatar" /> <a href="http://gd4h.driss.org:8080/user/wavestone">wavestone</a>
+  </span>
+ a mis à jour le jeu de données 
+  
+  <span class="dataset">
+    <a href="../../../dataset/7db7cfc4-1474-4625-8a22-882236ee25fb">Données SYNOP</a>
+    
+  </span>
+
+    <br />
+    <span class="date" title="novembre 9, 2021, 11:14 (+0100)">
+      il y a 5 mois
+      
+        &nbsp;|&nbsp;
+        <a href="../../../dataset/7db7cfc4-1474-4625-8a22-882236ee25fb?activity_id=578b17c3-c423-4013-aa2e-4f1f23eb75be">
+          View this version
+        </a>
+        &nbsp;|&nbsp;
+        <a href="../../../dataset/changes/578b17c3-c423-4013-aa2e-4f1f23eb75be">
+          Modifications
+        </a>
+      
+    </span>
+  </p>
+</li>
+<li class="item new-package">
+  <i class="fa icon fa-sitemap"></i>
+  <p>
+    
+  <span class="actor">
+    <img src="http://gravatar.com/avatar/0c17bf66e649070167701d2d3cd71711?s=30&amp;d=identicon"
+        class="user-image" width="30" height="30" alt="Gravatar" /> <a href="http://gd4h.driss.org:8080/user/wavestone">wavestone</a>
+  </span>
+ a créé  le jeu de données 
+  
+  <span class="dataset">
+    <a href="../../../dataset/440791dd-7236-483d-a82c-8911709d4cfc">Données de modèle atmosphérique à aire limitée</a>
+    
+  </span>
+
+    <br />
+    <span class="date" title="novembre 9, 2021, 11:11 (+0100)">
+      il y a 5 mois
+      
+        &nbsp;|&nbsp;
+        <a href="../../../dataset/440791dd-7236-483d-a82c-8911709d4cfc?activity_id=5ed04ae5-088f-4dc2-927c-2e7a53d2d230">
+          View this version
+        </a>
+      
+    </span>
+  </p>
+</li>
+<li class="item new-package">
+  <i class="fa icon fa-sitemap"></i>
+  <p>
+    
+  <span class="actor">
+    <img src="http://gravatar.com/avatar/0c17bf66e649070167701d2d3cd71711?s=30&amp;d=identicon"
+        class="user-image" width="30" height="30" alt="Gravatar" /> <a href="http://gd4h.driss.org:8080/user/wavestone">wavestone</a>
+  </span>
+ a créé  le jeu de données 
+  
+  <span class="dataset">
+    <a href="../../../dataset/ee66e25c-937f-4bae-a4c6-01f474149d1f">Données de modèle Arpège essentielles OMM</a>
+    
+  </span>
+
+    <br />
+    <span class="date" title="novembre 9, 2021, 11:11 (+0100)">
+      il y a 5 mois
+      
+        &nbsp;|&nbsp;
+        <a href="../../../dataset/ee66e25c-937f-4bae-a4c6-01f474149d1f?activity_id=ce1a8e67-44af-407c-8906-08a3d4f49c8e">
+          View this version
+        </a>
+      
+    </span>
+  </p>
+</li>
+<li class="item new-package">
+  <i class="fa icon fa-sitemap"></i>
+  <p>
+    
+  <span class="actor">
+    <img src="http://gravatar.com/avatar/0c17bf66e649070167701d2d3cd71711?s=30&amp;d=identicon"
+        class="user-image" width="30" height="30" alt="Gravatar" /> <a href="http://gd4h.driss.org:8080/user/wavestone">wavestone</a>
+  </span>
+ a créé  le jeu de données 
+  
+  <span class="dataset">
+    <a href="../../../dataset/210d1b4c-1c29-41fb-a64c-350c87886204">Données de modèle de prévision d'ensemble ARPEGE</a>
+    
+  </span>
+
+    <br />
+    <span class="date" title="novembre 9, 2021, 11:11 (+0100)">
+      il y a 5 mois
+      
+        &nbsp;|&nbsp;
+        <a href="../../../dataset/210d1b4c-1c29-41fb-a64c-350c87886204?activity_id=ecf64e43-2e67-4b81-b818-97af3fa2e600">
+          View this version
+        </a>
+      
+    </span>
+  </p>
+</li>
+<li class="item new-package">
+  <i class="fa icon fa-sitemap"></i>
+  <p>
+    
+  <span class="actor">
+    <img src="http://gravatar.com/avatar/0c17bf66e649070167701d2d3cd71711?s=30&amp;d=identicon"
+        class="user-image" width="30" height="30" alt="Gravatar" /> <a href="http://gd4h.driss.org:8080/user/wavestone">wavestone</a>
+  </span>
+ a créé  le jeu de données 
+  
+  <span class="dataset">
+    <a href="../../../dataset/ba300ad1-6d8d-45d9-bbe4-946b91306ed6">Modèle global de chimie atmosphérique et de transport</a>
+    
+  </span>
+
+    <br />
+    <span class="date" title="novembre 9, 2021, 11:11 (+0100)">
+      il y a 5 mois
+      
+        &nbsp;|&nbsp;
+        <a href="../../../dataset/ba300ad1-6d8d-45d9-bbe4-946b91306ed6?activity_id=6f57fa29-8444-48aa-bbb2-722f326cb8ce">
+          View this version
+        </a>
+      
+    </span>
+  </p>
+</li>
+<li class="item new-package">
+  <i class="fa icon fa-sitemap"></i>
+  <p>
+    
+  <span class="actor">
+    <img src="http://gravatar.com/avatar/0c17bf66e649070167701d2d3cd71711?s=30&amp;d=identicon"
+        class="user-image" width="30" height="30" alt="Gravatar" /> <a href="http://gd4h.driss.org:8080/user/wavestone">wavestone</a>
+  </span>
+ a créé  le jeu de données 
+  
+  <span class="dataset">
+    <a href="../../../dataset/c1422f5c-e975-4a26-930f-df2349bc6c82">Données horaires</a>
+    
+  </span>
+
+    <br />
+    <span class="date" title="novembre 9, 2021, 11:11 (+0100)">
+      il y a 5 mois
+      
+        &nbsp;|&nbsp;
+        <a href="../../../dataset/c1422f5c-e975-4a26-930f-df2349bc6c82?activity_id=0839c864-358e-4df8-9fe8-ba282220dc4f">
+          View this version
+        </a>
+      
+    </span>
+  </p>
+</li>
+<li class="item new-package">
+  <i class="fa icon fa-sitemap"></i>
+  <p>
+    
+  <span class="actor">
+    <img src="http://gravatar.com/avatar/0c17bf66e649070167701d2d3cd71711?s=30&amp;d=identicon"
+        class="user-image" width="30" height="30" alt="Gravatar" /> <a href="http://gd4h.driss.org:8080/user/wavestone">wavestone</a>
+  </span>
+ a créé  le jeu de données 
+  
+  <span class="dataset">
+    <a href="../../../dataset/7db7cfc4-1474-4625-8a22-882236ee25fb">Données SYNOP</a>
+    
+  </span>
+
+    <br />
+    <span class="date" title="novembre 9, 2021, 11:11 (+0100)">
+      il y a 5 mois
+      
+        &nbsp;|&nbsp;
+        <a href="../../../dataset/7db7cfc4-1474-4625-8a22-882236ee25fb?activity_id=09e756cf-a810-49e7-8f66-9ab14dda567d">
+          View this version
+        </a>
+      
+    </span>
+  </p>
+</li><li class="item new-organization">
+  <i class="fa icon fa-briefcase"></i>
+  <p>
+    
+  <span class="actor">
+    <img src="http://gravatar.com/avatar/0c17bf66e649070167701d2d3cd71711?s=30&amp;d=identicon"
+        class="user-image" width="30" height="30" alt="Gravatar" /> <a href="http://gd4h.driss.org:8080/user/wavestone">wavestone</a>
+  </span>
+ a créé l'organisation 
+  <a href="../../4726de0a-d178-4b37-abb4-f5c67f8d2c59">Météo-France</a>
+               
+
+    <br />
+    <span class="date" title="novembre 9, 2021, 10:56 (+0100)">
+      il y a 5 mois
+    </span>
+  </p>
+</li>
+  </ul>
+
+
+                    </div>
+                  </article>
+                
+              </div>
+            
+          </div>
+        
+      </div>
+    </div>
+  
+    <footer class="site-footer">
+  <div class="container">
+    
+    <div class="row">
+      <div class="col-md-8 footer-links">
+        
+          <ul class="list-unstyled">
+            
+              <li><a href="../../../about">À propos de Green Data For Health</a></li>
+            
+          </ul>
+          <ul class="list-unstyled">
+            
+              
+              <li><a href="http://docs.ckan.org/en/2.9/api/">API CKAN</a></li>
+              <li><a href="http://www.ckan.org/">Association CKAN</a></li>
+              <li><a href="http://www.opendefinition.org/okd/"><img src="../../../base/images/od_80x15_blue.png" alt="Open Data"></a></li>
+            
+          </ul>
+        
+      </div>
+      <div class="col-md-4 attribution">
+        
+          <p><strong>Généré par</strong> <a class="hide-text ckan-footer-logo" href="http://ckan.org">CKAN</a></p>
+        
+        
+          
+<form class="form-inline form-select lang-select" action="http://gd4h.driss.org:8080/util/redirect" data-module="select-switch" method="POST">
+  <label for="field-lang-select">Langue</label>
+  <select id="field-lang-select" name="url" data-module="autocomplete" data-module-dropdown-class="lang-dropdown" data-module-container-class="lang-container">
+    
+      <option value="/fr/organization/activity/meteo-france/0" selected="selected">
+        français
+      </option>
+    
+      <option value="/en/organization/activity/meteo-france/0" >
+        English
+      </option>
+    
+  </select>
+  <button class="btn btn-default js-hide" type="submit">Go</button>
+</form>
+        
+      </div>
+    </div>
+    
+  </div>
+
+  
+    
+  
+</footer>
+  
+  
+  
+  
+    
+  
+  
+    
+
+      
+
+    
+    
+    <link href="../../../webassets/vendor/f3b8236b_select2.css" rel="stylesheet"/>
+<link href="../../../webassets/vendor/0b01aef1_font-awesome.css" rel="stylesheet"/>
+    <script src="../../../webassets/vendor/d8ae4bed_jquery.js" type="text/javascript"></script>
+<script src="../../../webassets/vendor/fb6095a0_vendor.js" type="text/javascript"></script>
+<script src="../../../webassets/vendor/580fa18d_bootstrap.js" type="text/javascript"></script>
+<script src="../../../webassets/base/5f5a82bb_main.js" type="text/javascript"></script>
+<script src="../../../webassets/base/919ae274_ckan.js" type="text/javascript"></script>
+<script src="../../../webassets/base/cd2c0272_tracking.js" type="text/javascript"></script>
+  </body>
+</html>

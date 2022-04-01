@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<!--[if IE 9]> <html lang="fr" class="ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="fr"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+      <meta name="generator" content="ckan 2.9.4" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>base_de_donnees_sur_la_qualite_des_sols_urbains - Changes - Jeu de données - Green Data For Health</title>
+
+    
+    <link rel="shortcut icon" href="../../base/images/ckan.ico" />
+    
+  
+      
+      
+      
+      
+    
+  
+
+
+    
+      
+      
+    
+
+    
+    <link href="../../webassets/base/eddf841d_green.css" rel="stylesheet"/>
+<link href="../../webassets/ckanext-scheming/2deda21a_scheming_css.css" rel="stylesheet"/>
+    
+  </head>
+
+  
+  <body data-site-root="http://51.159.37.182:8080/" data-locale-root="http://51.159.37.182:8080/" >
+
+    
+    <div class="sr-only sr-only-focusable"><a href="821e1f3b-b462-49ff-a62c-2e9afe51eb5a#content">Passer directement au contenu</a></div>
+  
+
+  
+     
+<div class="account-masthead">
+  <div class="container">
+     
+    <nav class="account not-authed" aria-label="Account">
+      <ul class="list-unstyled">
+        
+        <li><a href="../../user/login">Connexion</a></li>
+        
+        <li><a class="sub" href="../../user/register">S'inscrire</a></li>
+         
+      </ul>
+    </nav>
+     
+  </div>
+</div>
+
+<header class="navbar navbar-static-top masthead">
+    
+  <div class="container">
+    <div class="navbar-right">
+      <button data-target="#main-navigation-toggle" data-toggle="collapse" class="navbar-toggle collapsed" type="button" aria-label="expand or collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="fa fa-bars"></span>
+      </button>
+    </div>
+    <hgroup class="header-image navbar-left">
+       
+      <a class="logo" href="../../index.html"><img src="../../uploads/admin/2021-11-15-132638.132117CGDD.png" alt="Green Data For Health" title="Green Data For Health" /></a>
+       
+    </hgroup>
+
+    <div class="collapse navbar-collapse" id="main-navigation-toggle">
+      
+      <nav class="section navigation">
+        <ul class="nav nav-pills">
+            
+    <li><a href="../../portal/index.html">Portals</a></li><li><a href="../index.html">Jeux de données</a></li><li><a href="../../organization/index.html">Organisations</a></li><li><a href="../../about">À propos</a></li>
+
+        </ul>
+      </nav>
+       
+      <form class="section site-search simple-input" action="../index.html" method="get">
+        <div class="field">
+          <label for="field-sitewide-search">Rechercher des jeux de données</label>
+          <input id="field-sitewide-search" type="text" class="form-control" name="q" placeholder="Rechercher" aria-label="Chercher des jeux de données"/>
+          <button class="btn-search" type="submit" aria-label="Submit"><i class="fa fa-search"></i></button>
+        </div>
+      </form>
+      
+    </div>
+  </div>
+</header>
+
+  
+    <div class="main">
+      <div id="content" class="container">
+        
+          
+            <div class="flash-messages">
+              
+                
+              
+            </div>
+          
+
+          
+            <div class="toolbar" role="navigation" aria-label="Breadcrumb">
+              
+                
+                  <ol class="breadcrumb">
+                    
+<li class="home"><a href="../../index.html" aria-label="Accueil"><i class="fa fa-home"></i><span> Accueil</span></a></li>
+                    
+  
+  
+    
+    
+      
+      
+      <li><a href="../../organization/index.html">Organisations</a></li>
+      <li><a href="../../organization/brgm">BRGM</a></li>
+    
+    <li><a href="../base_de_donnees_sur_la_qualite_des_sols_urbains">Base de données sur la...</a></li>
+  
+
+  <li><a href="../activity/base_de_donnees_sur_la_qualite_des_sols_urbains">Modifications</a></li>
+  <li class="active"><a href="821e1f3b-b462-49ff-a62c-2e9afe51eb5a">821e1f3b-b462-49ff-a62c-2e9...</a></li>
+
+                  </ol>
+                
+              
+            </div>
+          
+
+          <div class="row wrapper no-nav">
+            
+            
+            
+
+            
+
+            
+  <article class="module">
+    <div class="module-content">
+      
+        <h1 class="page-heading">Modifications</h1>
+      
+
+      
+      
+      <form id="range_form" action="http://gd4h.driss.org:8080/dataset/changes_multiple" data-module="select-switch" data-module-target="">
+        <input type="hidden" name="current_old_id" value="233c7f15-b089-4103-83ee-5db3fe85278e">
+        <input type="hidden" name="current_new_id" value="821e1f3b-b462-49ff-a62c-2e9afe51eb5a">
+      View changes from
+        <select class="form-control select-time" form="range_form" name="old_id">
+          <pre>
+            <option value="233c7f15-b089-4103-83ee-5db3fe85278e" selected>9 novembre 2021 à 11:04:59 +0100</option>
+          </pre>
+        </select> to
+        <select class="form-control select-time" form="range_form" name="new_id">
+          <pre>
+            <option value="821e1f3b-b462-49ff-a62c-2e9afe51eb5a" selected>9 novembre 2021 à 11:13:55 +0100</option><option value="233c7f15-b089-4103-83ee-5db3fe85278e" >9 novembre 2021 à 11:04:59 +0100</option>
+          </pre>
+        </select>
+        </form>
+
+        <br>
+
+      
+      <hr>
+      
+        <strong>On 9 novembre 2021 à 11:13:55 +0100, <img src="http://gravatar.com/avatar/0c17bf66e649070167701d2d3cd71711?s=20&amp;d=identicon"
+        class="user-image" width="20" height="20" alt="Gravatar" /> <a href="http://gd4h.driss.org:8080/user/wavestone">wavestone</a>:</strong>
+
+
+<ul>
+
+  <li>
+  <p>
+    
+
+      Added tag <a href="../index.html?tags=Sols">Sols</a> to <a href="../c319bab3-0f1d-43d5-8344-c6ae9116b066">Base de données sur la qualité des sols urbains</a>
+
+    
+  </p>
+</li>
+  <br>
+
+</ul>
+
+        
+        
+          
+          <input type="button" data-module="metadata-button" data-module-target="" class="btn" value="Show metadata diff" id="metadata_button"></input>
+          <div id="metadata_diff" style="display:none;">
+          
+            <pre>
+              
+    <table class="diff" id="difflib_chg_to1278__top"
+           cellspacing="0" cellpadding="0" rules="groups" >
+        <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
+        <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
+        
+        <tbody>
+            <tr><td class="diff_next"><a href="821e1f3b-b462-49ff-a62c-2e9afe51eb5a#difflib_chg_to1278__0">f</a></td><td class="diff_header" id="from1278_1">1</td><td nowrap="nowrap">{</td><td class="diff_next"><a href="821e1f3b-b462-49ff-a62c-2e9afe51eb5a#difflib_chg_to1278__0">f</a></td><td class="diff_header" id="to1278_1">1</td><td nowrap="nowrap">{</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_2">2</td><td nowrap="nowrap">&nbsp;&nbsp;"access":&nbsp;{},</td><td class="diff_next"></td><td class="diff_header" id="to1278_2">2</td><td nowrap="nowrap">&nbsp;&nbsp;"access":&nbsp;{},</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_3">3</td><td nowrap="nowrap">&nbsp;&nbsp;"agent_type_dcat_ap":&nbsp;{</td><td class="diff_next"></td><td class="diff_header" id="to1278_3">3</td><td nowrap="nowrap">&nbsp;&nbsp;"agent_type_dcat_ap":&nbsp;{</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_4">4</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"National&nbsp;authority",</td><td class="diff_next"></td><td class="diff_header" id="to1278_4">4</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"National&nbsp;authority",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_5">5</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"Autorit\u00e9&nbsp;nationale"</td><td class="diff_next"></td><td class="diff_header" id="to1278_5">5</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"Autorit\u00e9&nbsp;nationale"</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_6">6</td><td nowrap="nowrap">&nbsp;&nbsp;},</td><td class="diff_next"></td><td class="diff_header" id="to1278_6">6</td><td nowrap="nowrap">&nbsp;&nbsp;},</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_7">7</td><td nowrap="nowrap">&nbsp;&nbsp;"author":&nbsp;null,</td><td class="diff_next"></td><td class="diff_header" id="to1278_7">7</td><td nowrap="nowrap">&nbsp;&nbsp;"author":&nbsp;null,</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_8">8</td><td nowrap="nowrap">&nbsp;&nbsp;"author_email":&nbsp;null,</td><td class="diff_next"></td><td class="diff_header" id="to1278_8">8</td><td nowrap="nowrap">&nbsp;&nbsp;"author_email":&nbsp;null,</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_9">9</td><td nowrap="nowrap">&nbsp;&nbsp;"contact":&nbsp;{</td><td class="diff_next"></td><td class="diff_header" id="to1278_9">9</td><td nowrap="nowrap">&nbsp;&nbsp;"contact":&nbsp;{</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_10">10</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"bdsolu@brgm.fr",</td><td class="diff_next"></td><td class="diff_header" id="to1278_10">10</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"bdsolu@brgm.fr",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_11">11</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"bdsolu@brgm.fr"</td><td class="diff_next"></td><td class="diff_header" id="to1278_11">11</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"bdsolu@brgm.fr"</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_12">12</td><td nowrap="nowrap">&nbsp;&nbsp;},</td><td class="diff_next"></td><td class="diff_header" id="to1278_12">12</td><td nowrap="nowrap">&nbsp;&nbsp;},</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_13">13</td><td nowrap="nowrap">&nbsp;&nbsp;"creator_user_id":&nbsp;"18ed37e6-5475-4583-9ef9-7e42206a0a8d",</td><td class="diff_next"></td><td class="diff_header" id="to1278_13">13</td><td nowrap="nowrap">&nbsp;&nbsp;"creator_user_id":&nbsp;"18ed37e6-5475-4583-9ef9-7e42206a0a8d",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_14">14</td><td nowrap="nowrap">&nbsp;&nbsp;"data_filtering":&nbsp;{</td><td class="diff_next"></td><td class="diff_header" id="to1278_14">14</td><td nowrap="nowrap">&nbsp;&nbsp;"data_filtering":&nbsp;{</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_15">15</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"N",</td><td class="diff_next"></td><td class="diff_header" id="to1278_15">15</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"N",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_16">16</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"N"</td><td class="diff_next"></td><td class="diff_header" id="to1278_16">16</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"N"</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_17">17</td><td nowrap="nowrap">&nbsp;&nbsp;},</td><td class="diff_next"></td><td class="diff_header" id="to1278_17">17</td><td nowrap="nowrap">&nbsp;&nbsp;},</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_18">18</td><td nowrap="nowrap">&nbsp;&nbsp;"data_format":&nbsp;{</td><td class="diff_next"></td><td class="diff_header" id="to1278_18">18</td><td nowrap="nowrap">&nbsp;&nbsp;"data_format":&nbsp;{</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_19">19</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"text,&nbsp;number",</td><td class="diff_next"></td><td class="diff_header" id="to1278_19">19</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"text,&nbsp;number",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_20">20</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"texte,&nbsp;nombre"</td><td class="diff_next"></td><td class="diff_header" id="to1278_20">20</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"texte,&nbsp;nombre"</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_21">21</td><td nowrap="nowrap">&nbsp;&nbsp;},</td><td class="diff_next"></td><td class="diff_header" id="to1278_21">21</td><td nowrap="nowrap">&nbsp;&nbsp;},</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_22">22</td><td nowrap="nowrap">&nbsp;&nbsp;"data_updated_at":&nbsp;{},</td><td class="diff_next"></td><td class="diff_header" id="to1278_22">22</td><td nowrap="nowrap">&nbsp;&nbsp;"data_updated_at":&nbsp;{},</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_23">23</td><td nowrap="nowrap">&nbsp;&nbsp;"diffusion_mode":&nbsp;{</td><td class="diff_next"></td><td class="diff_header" id="to1278_23">23</td><td nowrap="nowrap">&nbsp;&nbsp;"diffusion_mode":&nbsp;{</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_24">24</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"Portail",</td><td class="diff_next"></td><td class="diff_header" id="to1278_24">24</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"Portail",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_25">25</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"Portail"</td><td class="diff_next"></td><td class="diff_header" id="to1278_25">25</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"Portail"</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_26">26</td><td nowrap="nowrap">&nbsp;&nbsp;},</td><td class="diff_next"></td><td class="diff_header" id="to1278_26">26</td><td nowrap="nowrap">&nbsp;&nbsp;},</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_27">27</td><td nowrap="nowrap">&nbsp;&nbsp;"documentation":&nbsp;{</td><td class="diff_next"></td><td class="diff_header" id="to1278_27">27</td><td nowrap="nowrap">&nbsp;&nbsp;"documentation":&nbsp;{</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_28">28</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"Brief&nbsp;explanations&nbsp;available&nbsp;online",</td><td class="diff_next"></td><td class="diff_header" id="to1278_28">28</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"Brief&nbsp;explanations&nbsp;available&nbsp;online",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_29">29</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"Br\u00e8ves&nbsp;explications&nbsp;disponibles&nbsp;en&nbsp;ligne"</td><td class="diff_next"></td><td class="diff_header" id="to1278_29">29</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"Br\u00e8ves&nbsp;explications&nbsp;disponibles&nbsp;en&nbsp;ligne"</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_30">30</td><td nowrap="nowrap">&nbsp;&nbsp;},</td><td class="diff_next"></td><td class="diff_header" id="to1278_30">30</td><td nowrap="nowrap">&nbsp;&nbsp;},</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_31">31</td><td nowrap="nowrap">&nbsp;&nbsp;"downloadble":&nbsp;{</td><td class="diff_next"></td><td class="diff_header" id="to1278_31">31</td><td nowrap="nowrap">&nbsp;&nbsp;"downloadble":&nbsp;{</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_32">32</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"Y",</td><td class="diff_next"></td><td class="diff_header" id="to1278_32">32</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"Y",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_33">33</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"O"</td><td class="diff_next"></td><td class="diff_header" id="to1278_33">33</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"O"</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_34">34</td><td nowrap="nowrap">&nbsp;&nbsp;},</td><td class="diff_next"></td><td class="diff_header" id="to1278_34">34</td><td nowrap="nowrap">&nbsp;&nbsp;},</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_35">35</td><td nowrap="nowrap">&nbsp;&nbsp;"environment":&nbsp;{</td><td class="diff_next"></td><td class="diff_header" id="to1278_35">35</td><td nowrap="nowrap">&nbsp;&nbsp;"environment":&nbsp;{</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_36">36</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"Sols",</td><td class="diff_next"></td><td class="diff_header" id="to1278_36">36</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"Sols",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_37">37</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"Sols"</td><td class="diff_next"></td><td class="diff_header" id="to1278_37">37</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"Sols"</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_38">38</td><td nowrap="nowrap">&nbsp;&nbsp;},</td><td class="diff_next"></td><td class="diff_header" id="to1278_38">38</td><td nowrap="nowrap">&nbsp;&nbsp;},</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_39">39</td><td nowrap="nowrap">&nbsp;&nbsp;"format_dcat_ap":&nbsp;{</td><td class="diff_next"></td><td class="diff_header" id="to1278_39">39</td><td nowrap="nowrap">&nbsp;&nbsp;"format_dcat_ap":&nbsp;{</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_40">40</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"Excel&nbsp;XLSX",</td><td class="diff_next"></td><td class="diff_header" id="to1278_40">40</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"Excel&nbsp;XLSX",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_41">41</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"Excel&nbsp;XLSX"</td><td class="diff_next"></td><td class="diff_header" id="to1278_41">41</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"Excel&nbsp;XLSX"</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_42">42</td><td nowrap="nowrap">&nbsp;&nbsp;},</td><td class="diff_next"></td><td class="diff_header" id="to1278_42">42</td><td nowrap="nowrap">&nbsp;&nbsp;},</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_43">43</td><td nowrap="nowrap">&nbsp;&nbsp;"geographical_coverage_dcat_ap":&nbsp;{</td><td class="diff_next"></td><td class="diff_header" id="to1278_43">43</td><td nowrap="nowrap">&nbsp;&nbsp;"geographical_coverage_dcat_ap":&nbsp;{</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_44">44</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"FXX",</td><td class="diff_next"></td><td class="diff_header" id="to1278_44">44</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"FXX",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_45">45</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"FXX"</td><td class="diff_next"></td><td class="diff_header" id="to1278_45">45</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"FXX"</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_46">46</td><td nowrap="nowrap">&nbsp;&nbsp;},</td><td class="diff_next"></td><td class="diff_header" id="to1278_46">46</td><td nowrap="nowrap">&nbsp;&nbsp;},</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_47">47</td><td nowrap="nowrap">&nbsp;&nbsp;"geolocated_data":&nbsp;{},</td><td class="diff_next"></td><td class="diff_header" id="to1278_47">47</td><td nowrap="nowrap">&nbsp;&nbsp;"geolocated_data":&nbsp;{},</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_48">48</td><td nowrap="nowrap">&nbsp;&nbsp;"geolocation_ref":&nbsp;{</td><td class="diff_next"></td><td class="diff_header" id="to1278_48">48</td><td nowrap="nowrap">&nbsp;&nbsp;"geolocation_ref":&nbsp;{</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_49">49</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"O,&nbsp;location&nbsp;of&nbsp;municipalities&nbsp;(latitude/longitude)",</td><td class="diff_next"></td><td class="diff_header" id="to1278_49">49</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"O,&nbsp;location&nbsp;of&nbsp;municipalities&nbsp;(latitude/longitude)",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_50">50</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"O,&nbsp;localisation&nbsp;des&nbsp;communes&nbsp;(latitude/longitude)"</td><td class="diff_next"></td><td class="diff_header" id="to1278_50">50</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"O,&nbsp;localisation&nbsp;des&nbsp;communes&nbsp;(latitude/longitude)"</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_51">51</td><td nowrap="nowrap">&nbsp;&nbsp;},</td><td class="diff_next"></td><td class="diff_header" id="to1278_51">51</td><td nowrap="nowrap">&nbsp;&nbsp;},</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_52">52</td><td nowrap="nowrap">&nbsp;&nbsp;"groups":&nbsp;[],</td><td class="diff_next"></td><td class="diff_header" id="to1278_52">52</td><td nowrap="nowrap">&nbsp;&nbsp;"groups":&nbsp;[],</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_53">53</td><td nowrap="nowrap">&nbsp;&nbsp;"id":&nbsp;"c319bab3-0f1d-43d5-8344-c6ae9116b066",</td><td class="diff_next"></td><td class="diff_header" id="to1278_53">53</td><td nowrap="nowrap">&nbsp;&nbsp;"id":&nbsp;"c319bab3-0f1d-43d5-8344-c6ae9116b066",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_54">54</td><td nowrap="nowrap">&nbsp;&nbsp;"is_mesure":&nbsp;{</td><td class="diff_next"></td><td class="diff_header" id="to1278_54">54</td><td nowrap="nowrap">&nbsp;&nbsp;"is_mesure":&nbsp;{</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_55">55</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"Y",</td><td class="diff_next"></td><td class="diff_header" id="to1278_55">55</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"Y",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_56">56</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"O"</td><td class="diff_next"></td><td class="diff_header" id="to1278_56">56</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"O"</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_57">57</td><td nowrap="nowrap">&nbsp;&nbsp;},</td><td class="diff_next"></td><td class="diff_header" id="to1278_57">57</td><td nowrap="nowrap">&nbsp;&nbsp;},</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_58">58</td><td nowrap="nowrap">&nbsp;&nbsp;"isopen":&nbsp;false,</td><td class="diff_next"></td><td class="diff_header" id="to1278_58">58</td><td nowrap="nowrap">&nbsp;&nbsp;"isopen":&nbsp;false,</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_59">59</td><td nowrap="nowrap">&nbsp;&nbsp;"item_created_at":&nbsp;{},</td><td class="diff_next"></td><td class="diff_header" id="to1278_59">59</td><td nowrap="nowrap">&nbsp;&nbsp;"item_created_at":&nbsp;{},</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_60">60</td><td nowrap="nowrap">&nbsp;&nbsp;"item_updated_at":&nbsp;{},</td><td class="diff_next"></td><td class="diff_header" id="to1278_60">60</td><td nowrap="nowrap">&nbsp;&nbsp;"item_updated_at":&nbsp;{},</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_61">61</td><td nowrap="nowrap">&nbsp;&nbsp;"keywords":&nbsp;{},</td><td class="diff_next"></td><td class="diff_header" id="to1278_61">61</td><td nowrap="nowrap">&nbsp;&nbsp;"keywords":&nbsp;{},</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_62">62</td><td nowrap="nowrap">&nbsp;&nbsp;"licence_type_dcat_ap":&nbsp;{},</td><td class="diff_next"></td><td class="diff_header" id="to1278_62">62</td><td nowrap="nowrap">&nbsp;&nbsp;"licence_type_dcat_ap":&nbsp;{},</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_63">63</td><td nowrap="nowrap">&nbsp;&nbsp;"license_id":&nbsp;"Non&nbsp;renseign\u00e9",</td><td class="diff_next"></td><td class="diff_header" id="to1278_63">63</td><td nowrap="nowrap">&nbsp;&nbsp;"license_id":&nbsp;"Non&nbsp;renseign\u00e9",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_64">64</td><td nowrap="nowrap">&nbsp;&nbsp;"license_title":&nbsp;"Non&nbsp;renseign\u00e9",</td><td class="diff_next"></td><td class="diff_header" id="to1278_64">64</td><td nowrap="nowrap">&nbsp;&nbsp;"license_title":&nbsp;"Non&nbsp;renseign\u00e9",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_65">65</td><td nowrap="nowrap">&nbsp;&nbsp;"location_accuracy":&nbsp;{</td><td class="diff_next"></td><td class="diff_header" id="to1278_65">65</td><td nowrap="nowrap">&nbsp;&nbsp;"location_accuracy":&nbsp;{</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_66">66</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"Site&nbsp;(details&nbsp;limited&nbsp;to&nbsp;the&nbsp;Commune)",</td><td class="diff_next"></td><td class="diff_header" id="to1278_66">66</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"Site&nbsp;(details&nbsp;limited&nbsp;to&nbsp;the&nbsp;Commune)",</td></tr>
+            <tr><td class="diff_next" id="difflib_chg_to1278__0"></td><td class="diff_header" id="from1278_67">67</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"Site&nbsp;(d\u00e9tail&nbsp;limit\u00e9&nbsp;\u00e0&nbsp;la&nbsp;Commune)"</td><td class="diff_next"></td><td class="diff_header" id="to1278_67">67</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"Site&nbsp;(d\u00e9tail&nbsp;limit\u00e9&nbsp;\u00e0&nbsp;la&nbsp;Commune)"</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_68">68</td><td nowrap="nowrap">&nbsp;&nbsp;},</td><td class="diff_next"></td><td class="diff_header" id="to1278_68">68</td><td nowrap="nowrap">&nbsp;&nbsp;},</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_69">69</td><td nowrap="nowrap">&nbsp;&nbsp;"maintainer":&nbsp;null,</td><td class="diff_next"></td><td class="diff_header" id="to1278_69">69</td><td nowrap="nowrap">&nbsp;&nbsp;"maintainer":&nbsp;null,</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_70">70</td><td nowrap="nowrap">&nbsp;&nbsp;"maintainer_email":&nbsp;null,</td><td class="diff_next"></td><td class="diff_header" id="to1278_70">70</td><td nowrap="nowrap">&nbsp;&nbsp;"maintainer_email":&nbsp;null,</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_71">71</td><td nowrap="nowrap">&nbsp;&nbsp;"metadata_created":&nbsp;"2021-11-09T10:04:59.502348",</td><td class="diff_next"></td><td class="diff_header" id="to1278_71">71</td><td nowrap="nowrap">&nbsp;&nbsp;"metadata_created":&nbsp;"2021-11-09T10:04:59.502348",</td></tr>
+            <tr><td class="diff_next"><a href="821e1f3b-b462-49ff-a62c-2e9afe51eb5a#difflib_chg_to1278__1">n</a></td><td class="diff_header" id="from1278_72">72</td><td nowrap="nowrap">&nbsp;&nbsp;"metadata_modified":&nbsp;"2021-11-09T10:<span class="diff_chg">04</span>:5<span class="diff_chg">9</span>.5<span class="diff_sub">0</span>2<span class="diff_sub">3</span>6<span class="diff_sub">4</span>",</td><td class="diff_next"><a href="821e1f3b-b462-49ff-a62c-2e9afe51eb5a#difflib_chg_to1278__1">n</a></td><td class="diff_header" id="to1278_72">72</td><td nowrap="nowrap">&nbsp;&nbsp;"metadata_modified":&nbsp;"2021-11-09T10:<span class="diff_chg">13</span>:5<span class="diff_chg">5</span>.<span class="diff_add">308</span>526",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_73">73</td><td nowrap="nowrap">&nbsp;&nbsp;"name":&nbsp;"base_de_donnees_sur_la_qualite_des_sols_urbains",</td><td class="diff_next"></td><td class="diff_header" id="to1278_73">73</td><td nowrap="nowrap">&nbsp;&nbsp;"name":&nbsp;"base_de_donnees_sur_la_qualite_des_sols_urbains",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_74">74</td><td nowrap="nowrap">&nbsp;&nbsp;"nature":&nbsp;{},</td><td class="diff_next"></td><td class="diff_header" id="to1278_74">74</td><td nowrap="nowrap">&nbsp;&nbsp;"nature":&nbsp;{},</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_75">75</td><td nowrap="nowrap">&nbsp;&nbsp;"notes":&nbsp;null,</td><td class="diff_next"></td><td class="diff_header" id="to1278_75">75</td><td nowrap="nowrap">&nbsp;&nbsp;"notes":&nbsp;null,</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_76">76</td><td nowrap="nowrap">&nbsp;&nbsp;"notes_translated":&nbsp;{</td><td class="diff_next"></td><td class="diff_header" id="to1278_76">76</td><td nowrap="nowrap">&nbsp;&nbsp;"notes_translated":&nbsp;{</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_77">77</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"Main&nbsp;analyses:&nbsp;arsenic,&nbsp;copper,&nbsp;chromium,&nbsp;lead,&nbsp;zinc,&nbsp;</td><td class="diff_next"></td><td class="diff_header" id="to1278_77">77</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"Main&nbsp;analyses:&nbsp;arsenic,&nbsp;copper,&nbsp;chromium,&nbsp;lead,&nbsp;zinc,&nbsp;</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_78">78</td><td nowrap="nowrap">nickel,&nbsp;cadmium,&nbsp;mercury,&nbsp;total&nbsp;cyanides,&nbsp;phenol&nbsp;index,&nbsp;carbon&nbsp;</td><td class="diff_next"></td><td class="diff_header" id="to1278_78">78</td><td nowrap="nowrap">nickel,&nbsp;cadmium,&nbsp;mercury,&nbsp;total&nbsp;cyanides,&nbsp;phenol&nbsp;index,&nbsp;carbon&nbsp;</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_79">79</td><td nowrap="nowrap">fractions&nbsp;of&nbsp;C10&nbsp;to&nbsp;C40&nbsp;hydrocarbons,&nbsp;indicator&nbsp;PCBs,&nbsp;7&nbsp;PCDDs&nbsp;and&nbsp;10&nbsp;</td><td class="diff_next"></td><td class="diff_header" id="to1278_79">79</td><td nowrap="nowrap">fractions&nbsp;of&nbsp;C10&nbsp;to&nbsp;C40&nbsp;hydrocarbons,&nbsp;indicator&nbsp;PCBs,&nbsp;7&nbsp;PCDDs&nbsp;and&nbsp;10&nbsp;</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_80">80</td><td nowrap="nowrap">PCDFs&nbsp;and&nbsp;metadata",</td><td class="diff_next"></td><td class="diff_header" id="to1278_80">80</td><td nowrap="nowrap">PCDFs&nbsp;and&nbsp;metadata",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_81">81</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"Principales&nbsp;analyses&nbsp;:&nbsp;arsenic,&nbsp;cuivre,&nbsp;chrome,&nbsp;plomb,&nbsp;</td><td class="diff_next"></td><td class="diff_header" id="to1278_81">81</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"Principales&nbsp;analyses&nbsp;:&nbsp;arsenic,&nbsp;cuivre,&nbsp;chrome,&nbsp;plomb,&nbsp;</td></tr>
+            <tr><td class="diff_next" id="difflib_chg_to1278__1"></td><td class="diff_header" id="from1278_82">82</td><td nowrap="nowrap">zinc,&nbsp;nickel,&nbsp;cadmium,&nbsp;mercure,&nbsp;cyanures&nbsp;totaux,&nbsp;indice&nbsp;phe\u0301nol,&nbsp;</td><td class="diff_next"></td><td class="diff_header" id="to1278_82">82</td><td nowrap="nowrap">zinc,&nbsp;nickel,&nbsp;cadmium,&nbsp;mercure,&nbsp;cyanures&nbsp;totaux,&nbsp;indice&nbsp;phe\u0301nol,&nbsp;</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_83">83</td><td nowrap="nowrap">fractions&nbsp;carbone\u0301es&nbsp;des&nbsp;hydrocarbures&nbsp;C10&nbsp;a\u0300&nbsp;C40,&nbsp;PCB&nbsp;</td><td class="diff_next"></td><td class="diff_header" id="to1278_83">83</td><td nowrap="nowrap">fractions&nbsp;carbone\u0301es&nbsp;des&nbsp;hydrocarbures&nbsp;C10&nbsp;a\u0300&nbsp;C40,&nbsp;PCB&nbsp;</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_84">84</td><td nowrap="nowrap">indicateurs,&nbsp;7&nbsp;PCDD&nbsp;et&nbsp;10&nbsp;PCDF&nbsp;et&nbsp;me\u0301tadonne\u0301es&nbsp;"</td><td class="diff_next"></td><td class="diff_header" id="to1278_84">84</td><td nowrap="nowrap">indicateurs,&nbsp;7&nbsp;PCDD&nbsp;et&nbsp;10&nbsp;PCDF&nbsp;et&nbsp;me\u0301tadonne\u0301es&nbsp;"</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_85">85</td><td nowrap="nowrap">&nbsp;&nbsp;},</td><td class="diff_next"></td><td class="diff_header" id="to1278_85">85</td><td nowrap="nowrap">&nbsp;&nbsp;},</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_86">86</td><td nowrap="nowrap">&nbsp;&nbsp;"num_resources":&nbsp;0,</td><td class="diff_next"></td><td class="diff_header" id="to1278_86">86</td><td nowrap="nowrap">&nbsp;&nbsp;"num_resources":&nbsp;0,</td></tr>
+            <tr><td class="diff_next"><a href="821e1f3b-b462-49ff-a62c-2e9afe51eb5a#difflib_chg_to1278__2">n</a></td><td class="diff_header" id="from1278_87">87</td><td nowrap="nowrap">&nbsp;&nbsp;"num_tags":&nbsp;<span class="diff_chg">0</span>,</td><td class="diff_next"><a href="821e1f3b-b462-49ff-a62c-2e9afe51eb5a#difflib_chg_to1278__2">n</a></td><td class="diff_header" id="to1278_87">87</td><td nowrap="nowrap">&nbsp;&nbsp;"num_tags":&nbsp;<span class="diff_chg">1</span>,</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_88">88</td><td nowrap="nowrap">&nbsp;&nbsp;"organization":&nbsp;{</td><td class="diff_next"></td><td class="diff_header" id="to1278_88">88</td><td nowrap="nowrap">&nbsp;&nbsp;"organization":&nbsp;{</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_89">89</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"approval_status":&nbsp;"approved",</td><td class="diff_next"></td><td class="diff_header" id="to1278_89">89</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"approval_status":&nbsp;"approved",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_90">90</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"created":&nbsp;"2021-11-09T10:56:47.312227",</td><td class="diff_next"></td><td class="diff_header" id="to1278_90">90</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"created":&nbsp;"2021-11-09T10:56:47.312227",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_91">91</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"description":&nbsp;"Bureau&nbsp;de&nbsp;recherches&nbsp;g\u00e9ologiques&nbsp;et&nbsp;</td><td class="diff_next"></td><td class="diff_header" id="to1278_91">91</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"description":&nbsp;"Bureau&nbsp;de&nbsp;recherches&nbsp;g\u00e9ologiques&nbsp;et&nbsp;</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_92">92</td><td nowrap="nowrap">mini\u00e8res",</td><td class="diff_next"></td><td class="diff_header" id="to1278_92">92</td><td nowrap="nowrap">mini\u00e8res",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_93">93</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"id":&nbsp;"f72dbb93-5f25-45d2-991e-3817fdf8495d",</td><td class="diff_next"></td><td class="diff_header" id="to1278_93">93</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"id":&nbsp;"f72dbb93-5f25-45d2-991e-3817fdf8495d",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_94">94</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"image_url":&nbsp;</td><td class="diff_next"></td><td class="diff_header" id="to1278_94">94</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"image_url":&nbsp;</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_95">95</td><td nowrap="nowrap">a.org/wikipedia/fr/thumb/1/1e/Logo_BRGM.svg/1200px-Logo_BRGM.svg.png",</td><td class="diff_next"></td><td class="diff_header" id="to1278_95">95</td><td nowrap="nowrap">a.org/wikipedia/fr/thumb/1/1e/Logo_BRGM.svg/1200px-Logo_BRGM.svg.png",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_96">96</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"is_organization":&nbsp;true,</td><td class="diff_next"></td><td class="diff_header" id="to1278_96">96</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"is_organization":&nbsp;true,</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_97">97</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"name":&nbsp;"brgm",</td><td class="diff_next"></td><td class="diff_header" id="to1278_97">97</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"name":&nbsp;"brgm",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_98">98</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"state":&nbsp;"active",</td><td class="diff_next"></td><td class="diff_header" id="to1278_98">98</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"state":&nbsp;"active",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_99">99</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"title":&nbsp;"BRGM",</td><td class="diff_next"></td><td class="diff_header" id="to1278_99">99</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"title":&nbsp;"BRGM",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_100">100</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"type":&nbsp;"organization"</td><td class="diff_next"></td><td class="diff_header" id="to1278_100">100</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"type":&nbsp;"organization"</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_101">101</td><td nowrap="nowrap">&nbsp;&nbsp;},</td><td class="diff_next"></td><td class="diff_header" id="to1278_101">101</td><td nowrap="nowrap">&nbsp;&nbsp;},</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_102">102</td><td nowrap="nowrap">&nbsp;&nbsp;"other_ref_associated":&nbsp;{</td><td class="diff_next"></td><td class="diff_header" id="to1278_102">102</td><td nowrap="nowrap">&nbsp;&nbsp;"other_ref_associated":&nbsp;{</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_103">103</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"N",</td><td class="diff_next"></td><td class="diff_header" id="to1278_103">103</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"N",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_104">104</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"N"</td><td class="diff_next"></td><td class="diff_header" id="to1278_104">104</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"N"</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_105">105</td><td nowrap="nowrap">&nbsp;&nbsp;},</td><td class="diff_next"></td><td class="diff_header" id="to1278_105">105</td><td nowrap="nowrap">&nbsp;&nbsp;},</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_106">106</td><td nowrap="nowrap">&nbsp;&nbsp;"owner_org":&nbsp;"f72dbb93-5f25-45d2-991e-3817fdf8495d",</td><td class="diff_next"></td><td class="diff_header" id="to1278_106">106</td><td nowrap="nowrap">&nbsp;&nbsp;"owner_org":&nbsp;"f72dbb93-5f25-45d2-991e-3817fdf8495d",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_107">107</td><td nowrap="nowrap">&nbsp;&nbsp;"pricing":&nbsp;{</td><td class="diff_next"></td><td class="diff_header" id="to1278_107">107</td><td nowrap="nowrap">&nbsp;&nbsp;"pricing":&nbsp;{</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_108">108</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"Free",</td><td class="diff_next"></td><td class="diff_header" id="to1278_108">108</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"Free",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_109">109</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"Gratuite"</td><td class="diff_next"></td><td class="diff_header" id="to1278_109">109</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"Gratuite"</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_110">110</td><td nowrap="nowrap">&nbsp;&nbsp;},</td><td class="diff_next"></td><td class="diff_header" id="to1278_110">110</td><td nowrap="nowrap">&nbsp;&nbsp;},</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_111">111</td><td nowrap="nowrap">&nbsp;&nbsp;"private":&nbsp;false,</td><td class="diff_next"></td><td class="diff_header" id="to1278_111">111</td><td nowrap="nowrap">&nbsp;&nbsp;"private":&nbsp;false,</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_112">112</td><td nowrap="nowrap">&nbsp;&nbsp;"projection_geolocation":&nbsp;{},</td><td class="diff_next"></td><td class="diff_header" id="to1278_112">112</td><td nowrap="nowrap">&nbsp;&nbsp;"projection_geolocation":&nbsp;{},</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_113">113</td><td nowrap="nowrap">&nbsp;&nbsp;"refresh_frequency":&nbsp;{</td><td class="diff_next"></td><td class="diff_header" id="to1278_113">113</td><td nowrap="nowrap">&nbsp;&nbsp;"refresh_frequency":&nbsp;{</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_114">114</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"irregular",</td><td class="diff_next"></td><td class="diff_header" id="to1278_114">114</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"irregular",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_115">115</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"irr\u00e9guli\u00e8re"</td><td class="diff_next"></td><td class="diff_header" id="to1278_115">115</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"irr\u00e9guli\u00e8re"</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_116">116</td><td nowrap="nowrap">&nbsp;&nbsp;},</td><td class="diff_next"></td><td class="diff_header" id="to1278_116">116</td><td nowrap="nowrap">&nbsp;&nbsp;},</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_117">117</td><td nowrap="nowrap">&nbsp;&nbsp;"relationships_as_object":&nbsp;[],</td><td class="diff_next"></td><td class="diff_header" id="to1278_117">117</td><td nowrap="nowrap">&nbsp;&nbsp;"relationships_as_object":&nbsp;[],</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_118">118</td><td nowrap="nowrap">&nbsp;&nbsp;"relationships_as_subject":&nbsp;[],</td><td class="diff_next"></td><td class="diff_header" id="to1278_118">118</td><td nowrap="nowrap">&nbsp;&nbsp;"relationships_as_subject":&nbsp;[],</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_119">119</td><td nowrap="nowrap">&nbsp;&nbsp;"resources":&nbsp;[],</td><td class="diff_next"></td><td class="diff_header" id="to1278_119">119</td><td nowrap="nowrap">&nbsp;&nbsp;"resources":&nbsp;[],</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_120">120</td><td nowrap="nowrap">&nbsp;&nbsp;"restriction":&nbsp;{},</td><td class="diff_next"></td><td class="diff_header" id="to1278_120">120</td><td nowrap="nowrap">&nbsp;&nbsp;"restriction":&nbsp;{},</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_121">121</td><td nowrap="nowrap">&nbsp;&nbsp;"search_engine":&nbsp;{</td><td class="diff_next"></td><td class="diff_header" id="to1278_121">121</td><td nowrap="nowrap">&nbsp;&nbsp;"search_engine":&nbsp;{</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_122">122</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"N",</td><td class="diff_next"></td><td class="diff_header" id="to1278_122">122</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"N",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_123">123</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"N"</td><td class="diff_next"></td><td class="diff_header" id="to1278_123">123</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"N"</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_124">124</td><td nowrap="nowrap">&nbsp;&nbsp;},</td><td class="diff_next"></td><td class="diff_header" id="to1278_124">124</td><td nowrap="nowrap">&nbsp;&nbsp;},</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_125">125</td><td nowrap="nowrap">&nbsp;&nbsp;"sigle":&nbsp;{</td><td class="diff_next"></td><td class="diff_header" id="to1278_125">125</td><td nowrap="nowrap">&nbsp;&nbsp;"sigle":&nbsp;{</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_126">126</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"BdSolU",</td><td class="diff_next"></td><td class="diff_header" id="to1278_126">126</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"BdSolU",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_127">127</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"BdSolU&nbsp;"</td><td class="diff_next"></td><td class="diff_header" id="to1278_127">127</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"BdSolU&nbsp;"</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_128">128</td><td nowrap="nowrap">&nbsp;&nbsp;},</td><td class="diff_next"></td><td class="diff_header" id="to1278_128">128</td><td nowrap="nowrap">&nbsp;&nbsp;},</td></tr>
+            <tr><td class="diff_next" id="difflib_chg_to1278__2"></td><td class="diff_header" id="from1278_129">129</td><td nowrap="nowrap">&nbsp;&nbsp;"state":&nbsp;"active",</td><td class="diff_next"></td><td class="diff_header" id="to1278_129">129</td><td nowrap="nowrap">&nbsp;&nbsp;"state":&nbsp;"active",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_130">130</td><td nowrap="nowrap">&nbsp;&nbsp;"status":&nbsp;{</td><td class="diff_next"></td><td class="diff_header" id="to1278_130">130</td><td nowrap="nowrap">&nbsp;&nbsp;"status":&nbsp;{</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_131">131</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"Y",</td><td class="diff_next"></td><td class="diff_header" id="to1278_131">131</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"Y",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_132">132</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"O"</td><td class="diff_next"></td><td class="diff_header" id="to1278_132">132</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"O"</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_133">133</td><td nowrap="nowrap">&nbsp;&nbsp;},</td><td class="diff_next"></td><td class="diff_header" id="to1278_133">133</td><td nowrap="nowrap">&nbsp;&nbsp;},</td></tr>
+            <tr><td class="diff_next"><a href="821e1f3b-b462-49ff-a62c-2e9afe51eb5a#difflib_chg_to1278__top">t</a></td><td class="diff_header" id="from1278_134">134</td><td nowrap="nowrap">&nbsp;&nbsp;"tags":&nbsp;[<span class="diff_sub">],</span></td><td class="diff_next"><a href="821e1f3b-b462-49ff-a62c-2e9afe51eb5a#difflib_chg_to1278__top">t</a></td><td class="diff_header" id="to1278_134">134</td><td nowrap="nowrap">&nbsp;&nbsp;"tags":&nbsp;[</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header"></td><td nowrap="nowrap"></td><td class="diff_next"></td><td class="diff_header" id="to1278_135">135</td><td nowrap="nowrap"><span class="diff_add">&nbsp;&nbsp;&nbsp;&nbsp;{</span></td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header"></td><td nowrap="nowrap"></td><td class="diff_next"></td><td class="diff_header" id="to1278_136">136</td><td nowrap="nowrap"><span class="diff_add">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"display_name":&nbsp;"Sols",</span></td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header"></td><td nowrap="nowrap"></td><td class="diff_next"></td><td class="diff_header" id="to1278_137">137</td><td nowrap="nowrap"><span class="diff_add">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"id":&nbsp;"95165f8f-254d-447e-aef3-cb1bb890e6b0",</span></td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header"></td><td nowrap="nowrap"></td><td class="diff_next"></td><td class="diff_header" id="to1278_138">138</td><td nowrap="nowrap"><span class="diff_add">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"name":&nbsp;"Sols",</span></td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header"></td><td nowrap="nowrap"></td><td class="diff_next"></td><td class="diff_header" id="to1278_139">139</td><td nowrap="nowrap"><span class="diff_add">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"state":&nbsp;"active",</span></td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header"></td><td nowrap="nowrap"></td><td class="diff_next"></td><td class="diff_header" id="to1278_140">140</td><td nowrap="nowrap"><span class="diff_add">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"vocabulary_id":&nbsp;null</span></td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header"></td><td nowrap="nowrap"></td><td class="diff_next"></td><td class="diff_header" id="to1278_141">141</td><td nowrap="nowrap"><span class="diff_add">&nbsp;&nbsp;&nbsp;&nbsp;}</span></td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header"></td><td nowrap="nowrap"></td><td class="diff_next"></td><td class="diff_header" id="to1278_142">142</td><td nowrap="nowrap"><span class="diff_add">&nbsp;&nbsp;],</span></td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_135">135</td><td nowrap="nowrap">&nbsp;&nbsp;"temporal_scale":&nbsp;{},</td><td class="diff_next"></td><td class="diff_header" id="to1278_143">143</td><td nowrap="nowrap">&nbsp;&nbsp;"temporal_scale":&nbsp;{},</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_136">136</td><td nowrap="nowrap">&nbsp;&nbsp;"ter":&nbsp;{</td><td class="diff_next"></td><td class="diff_header" id="to1278_144">144</td><td nowrap="nowrap">&nbsp;&nbsp;"ter":&nbsp;{</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_137">137</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"Metropolitan&nbsp;France",</td><td class="diff_next"></td><td class="diff_header" id="to1278_145">145</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"Metropolitan&nbsp;France",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_138">138</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"France&nbsp;m\u00e9tropolitaine"</td><td class="diff_next"></td><td class="diff_header" id="to1278_146">146</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"France&nbsp;m\u00e9tropolitaine"</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_139">139</td><td nowrap="nowrap">&nbsp;&nbsp;},</td><td class="diff_next"></td><td class="diff_header" id="to1278_147">147</td><td nowrap="nowrap">&nbsp;&nbsp;},</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_140">140</td><td nowrap="nowrap">&nbsp;&nbsp;"theme":&nbsp;{},</td><td class="diff_next"></td><td class="diff_header" id="to1278_148">148</td><td nowrap="nowrap">&nbsp;&nbsp;"theme":&nbsp;{},</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_141">141</td><td nowrap="nowrap">&nbsp;&nbsp;"theme_dcat_ap":&nbsp;{</td><td class="diff_next"></td><td class="diff_header" id="to1278_149">149</td><td nowrap="nowrap">&nbsp;&nbsp;"theme_dcat_ap":&nbsp;{</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_142">142</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"Environment",</td><td class="diff_next"></td><td class="diff_header" id="to1278_150">150</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"Environment",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_143">143</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"Environnement"</td><td class="diff_next"></td><td class="diff_header" id="to1278_151">151</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"Environnement"</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_144">144</td><td nowrap="nowrap">&nbsp;&nbsp;},</td><td class="diff_next"></td><td class="diff_header" id="to1278_152">152</td><td nowrap="nowrap">&nbsp;&nbsp;},</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_145">145</td><td nowrap="nowrap">&nbsp;&nbsp;"time_range":&nbsp;{</td><td class="diff_next"></td><td class="diff_header" id="to1278_153">153</td><td nowrap="nowrap">&nbsp;&nbsp;"time_range":&nbsp;{</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_146">146</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"2010&nbsp;-&nbsp;in&nbsp;progress",</td><td class="diff_next"></td><td class="diff_header" id="to1278_154">154</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"2010&nbsp;-&nbsp;in&nbsp;progress",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_147">147</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"2010&nbsp;-&nbsp;en&nbsp;cours"</td><td class="diff_next"></td><td class="diff_header" id="to1278_155">155</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"2010&nbsp;-&nbsp;en&nbsp;cours"</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_148">148</td><td nowrap="nowrap">&nbsp;&nbsp;},</td><td class="diff_next"></td><td class="diff_header" id="to1278_156">156</td><td nowrap="nowrap">&nbsp;&nbsp;},</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_149">149</td><td nowrap="nowrap">&nbsp;&nbsp;"title":&nbsp;"Base&nbsp;de&nbsp;donn\u00e9es&nbsp;sur&nbsp;la&nbsp;qualit\u00e9&nbsp;des&nbsp;sols&nbsp;</td><td class="diff_next"></td><td class="diff_header" id="to1278_157">157</td><td nowrap="nowrap">&nbsp;&nbsp;"title":&nbsp;"Base&nbsp;de&nbsp;donn\u00e9es&nbsp;sur&nbsp;la&nbsp;qualit\u00e9&nbsp;des&nbsp;sols&nbsp;</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_150">150</td><td nowrap="nowrap">urbains",</td><td class="diff_next"></td><td class="diff_header" id="to1278_158">158</td><td nowrap="nowrap">urbains",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_151">151</td><td nowrap="nowrap">&nbsp;&nbsp;"title_translated":&nbsp;{</td><td class="diff_next"></td><td class="diff_header" id="to1278_159">159</td><td nowrap="nowrap">&nbsp;&nbsp;"title_translated":&nbsp;{</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_152">152</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"Urban&nbsp;soil&nbsp;quality&nbsp;database",</td><td class="diff_next"></td><td class="diff_header" id="to1278_160">160</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"Urban&nbsp;soil&nbsp;quality&nbsp;database",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_153">153</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"Base&nbsp;de&nbsp;donn\u00e9es&nbsp;sur&nbsp;la&nbsp;qualit\u00e9&nbsp;des&nbsp;sols&nbsp;urbains"</td><td class="diff_next"></td><td class="diff_header" id="to1278_161">161</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"Base&nbsp;de&nbsp;donn\u00e9es&nbsp;sur&nbsp;la&nbsp;qualit\u00e9&nbsp;des&nbsp;sols&nbsp;urbains"</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_154">154</td><td nowrap="nowrap">&nbsp;&nbsp;},</td><td class="diff_next"></td><td class="diff_header" id="to1278_162">162</td><td nowrap="nowrap">&nbsp;&nbsp;},</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_155">155</td><td nowrap="nowrap">&nbsp;&nbsp;"type":&nbsp;"dataset",</td><td class="diff_next"></td><td class="diff_header" id="to1278_163">163</td><td nowrap="nowrap">&nbsp;&nbsp;"type":&nbsp;"dataset",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_156">156</td><td nowrap="nowrap">&nbsp;&nbsp;"type_organism":&nbsp;{</td><td class="diff_next"></td><td class="diff_header" id="to1278_164">164</td><td nowrap="nowrap">&nbsp;&nbsp;"type_organism":&nbsp;{</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_157">157</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"Public&nbsp;agency",</td><td class="diff_next"></td><td class="diff_header" id="to1278_165">165</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"en":&nbsp;"Public&nbsp;agency",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_158">158</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"Agence&nbsp;publique"</td><td class="diff_next"></td><td class="diff_header" id="to1278_166">166</td><td nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;"fr":&nbsp;"Agence&nbsp;publique"</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_159">159</td><td nowrap="nowrap">&nbsp;&nbsp;},</td><td class="diff_next"></td><td class="diff_header" id="to1278_167">167</td><td nowrap="nowrap">&nbsp;&nbsp;},</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_160">160</td><td nowrap="nowrap">&nbsp;&nbsp;"url":&nbsp;"http://www.bdsolu.fr/page/consultation",</td><td class="diff_next"></td><td class="diff_header" id="to1278_168">168</td><td nowrap="nowrap">&nbsp;&nbsp;"url":&nbsp;"http://www.bdsolu.fr/page/consultation",</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_161">161</td><td nowrap="nowrap">&nbsp;&nbsp;"version":&nbsp;null</td><td class="diff_next"></td><td class="diff_header" id="to1278_169">169</td><td nowrap="nowrap">&nbsp;&nbsp;"version":&nbsp;null</td></tr>
+            <tr><td class="diff_next"></td><td class="diff_header" id="from1278_162">162</td><td nowrap="nowrap">}</td><td class="diff_next"></td><td class="diff_header" id="to1278_170">170</td><td nowrap="nowrap">}</td></tr>
+        </tbody>
+    </table>
+            </pre>
+          
+          </div>
+        
+
+        <hr>
+      
+    </div>
+  </article>
+
+          </div>
+        
+      </div>
+    </div>
+  
+    <footer class="site-footer">
+  <div class="container">
+    
+    <div class="row">
+      <div class="col-md-8 footer-links">
+        
+          <ul class="list-unstyled">
+            
+              <li><a href="../../about">À propos de Green Data For Health</a></li>
+            
+          </ul>
+          <ul class="list-unstyled">
+            
+              
+              <li><a href="http://docs.ckan.org/en/2.9/api/">API CKAN</a></li>
+              <li><a href="http://www.ckan.org/">Association CKAN</a></li>
+              <li><a href="http://www.opendefinition.org/okd/"><img src="../../base/images/od_80x15_blue.png" alt="Open Data"></a></li>
+            
+          </ul>
+        
+      </div>
+      <div class="col-md-4 attribution">
+        
+          <p><strong>Généré par</strong> <a class="hide-text ckan-footer-logo" href="http://ckan.org">CKAN</a></p>
+        
+        
+          
+<form class="form-inline form-select lang-select" action="http://gd4h.driss.org:8080/util/redirect" data-module="select-switch" method="POST">
+  <label for="field-lang-select">Langue</label>
+  <select id="field-lang-select" name="url" data-module="autocomplete" data-module-dropdown-class="lang-dropdown" data-module-container-class="lang-container">
+    
+      <option value="/fr/dataset/changes/821e1f3b-b462-49ff-a62c-2e9afe51eb5a" selected="selected">
+        français
+      </option>
+    
+      <option value="/en/dataset/changes/821e1f3b-b462-49ff-a62c-2e9afe51eb5a" >
+        English
+      </option>
+    
+  </select>
+  <button class="btn btn-default js-hide" type="submit">Go</button>
+</form>
+        
+      </div>
+    </div>
+    
+  </div>
+
+  
+    
+  
+</footer>
+  
+  
+  
+  
+    
+  
+  
+    
+
+      
+
+    
+    
+    <link href="../../webassets/vendor/f3b8236b_select2.css" rel="stylesheet"/>
+<link href="../../webassets/vendor/0b01aef1_font-awesome.css" rel="stylesheet"/>
+    <script src="../../webassets/vendor/d8ae4bed_jquery.js" type="text/javascript"></script>
+<script src="../../webassets/vendor/fb6095a0_vendor.js" type="text/javascript"></script>
+<script src="../../webassets/vendor/580fa18d_bootstrap.js" type="text/javascript"></script>
+<script src="../../webassets/base/5f5a82bb_main.js" type="text/javascript"></script>
+<script src="../../webassets/base/919ae274_ckan.js" type="text/javascript"></script>
+<script src="../../webassets/base/cd2c0272_tracking.js" type="text/javascript"></script>
+  </body>
+</html>

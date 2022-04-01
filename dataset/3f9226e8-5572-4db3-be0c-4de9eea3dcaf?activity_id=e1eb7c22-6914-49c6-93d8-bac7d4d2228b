@@ -1,0 +1,562 @@
+<!DOCTYPE html>
+<!--[if IE 9]> <html lang="fr" class="ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="fr"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+      <meta name="generator" content="ckan 2.9.4" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CORINE Land Cover - Jeu de données - Green Data For Health</title>
+
+    
+    <link rel="shortcut icon" href="http://51.159.37.182:8080/base/images/ckan.ico" />
+    
+  
+      
+      
+      
+      
+    
+  
+
+
+    
+      
+      
+    
+  
+  <meta property="og:title" content="CORINE Land Cover - Green Data For Health">
+  <meta property="og:description" content="">
+
+
+    
+    <link href="http://51.159.37.182:8080/webassets/base/eddf841d_green.css" rel="stylesheet"/>
+<link href="http://51.159.37.182:8080/webassets/ckanext-scheming/2deda21a_scheming_css.css" rel="stylesheet"/>
+    
+  </head>
+
+  
+  <body data-site-root="http://51.159.37.182:8080/" data-locale-root="http://51.159.37.182:8080/" >
+
+    
+    <div class="sr-only sr-only-focusable"><a href="3f9226e8-5572-4db3-be0c-4de9eea3dcaf?activity_id=e1eb7c22-6914-49c6-93d8-bac7d4d2228b#content">Passer directement au contenu</a></div>
+  
+
+  
+     
+<div class="account-masthead">
+  <div class="container">
+     
+    <nav class="account not-authed" aria-label="Account">
+      <ul class="list-unstyled">
+        
+        <li><a href="http://51.159.37.182:8080/user/login">Connexion</a></li>
+        
+        <li><a class="sub" href="http://51.159.37.182:8080/user/register">S'inscrire</a></li>
+         
+      </ul>
+    </nav>
+     
+  </div>
+</div>
+
+<header class="navbar navbar-static-top masthead">
+    
+  <div class="container">
+    <div class="navbar-right">
+      <button data-target="#main-navigation-toggle" data-toggle="collapse" class="navbar-toggle collapsed" type="button" aria-label="expand or collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="fa fa-bars"></span>
+      </button>
+    </div>
+    <hgroup class="header-image navbar-left">
+       
+      <a class="logo" href="http://51.159.37.182:8080/"><img src="http://51.159.37.182:8080/uploads/admin/2021-11-15-132638.132117CGDD.png" alt="Green Data For Health" title="Green Data For Health" /></a>
+       
+    </hgroup>
+
+    <div class="collapse navbar-collapse" id="main-navigation-toggle">
+      
+      <nav class="section navigation">
+        <ul class="nav nav-pills">
+            
+    <li><a href="http://51.159.37.182:8080/portal/">Portals</a></li><li><a href="http://51.159.37.182:8080/dataset/">Jeux de données</a></li><li><a href="http://51.159.37.182:8080/organization/">Organisations</a></li><li><a href="http://51.159.37.182:8080/about">À propos</a></li>
+
+        </ul>
+      </nav>
+       
+      <form class="section site-search simple-input" action="http://51.159.37.182:8080/dataset/" method="get">
+        <div class="field">
+          <label for="field-sitewide-search">Rechercher des jeux de données</label>
+          <input id="field-sitewide-search" type="text" class="form-control" name="q" placeholder="Rechercher" aria-label="Chercher des jeux de données"/>
+          <button class="btn-search" type="submit" aria-label="Submit"><i class="fa fa-search"></i></button>
+        </div>
+      </form>
+      
+    </div>
+  </div>
+</header>
+
+  
+    <div class="main">
+      <div id="content" class="container">
+        
+          
+            <div class="flash-messages">
+              
+                
+              
+            </div>
+          
+
+          
+            <div class="toolbar" role="navigation" aria-label="Breadcrumb">
+              
+                
+                  <ol class="breadcrumb">
+                    
+<li class="home"><a href="http://51.159.37.182:8080/" aria-label="Accueil"><i class="fa fa-home"></i><span> Accueil</span></a></li>
+                    
+  
+    
+    
+      
+      
+      <li><a href="http://51.159.37.182:8080/organization/">Organisations</a></li>
+      <li><a href="../organization/ef9c7908-df55-40a3-bccf-a9119a96579d">MTE / SDES</a></li>
+    
+    <li class="active"><a href="http://51.159.37.182:8080/dataset/3f9226e8-5572-4db3-be0c-4de9eea3dcaf">CORINE Land Cover</a></li>
+  
+
+                  </ol>
+                
+              
+            </div>
+          
+
+          <div class="row wrapper">
+            
+            
+            
+
+            
+              <aside class="secondary col-sm-3">
+                
+                
+
+  
+
+  
+    
+
+  
+    <section class="module module-narrow">
+      <div class="module context-info">
+        <div class="module-content">
+          
+            
+              <h1 class="heading">CORINE Land Cover</h1>
+            
+            
+              
+              <div class="nums">
+                <dl>
+                  <dt>Abonnés</dt>
+                  <dd data-module="followers-counter" data-module-id="3f9226e8-5572-4db3-be0c-4de9eea3dcaf" data-module-num_followers="0"><span>0</span></dd>
+                </dl>
+              </div>
+            
+            
+              
+                <div class="follow_button">
+                  
+                </div>
+              
+            
+          
+        </div>
+      </div>
+    </section>
+  
+
+  
+
+  
+    
+      
+      
+
+
+
+
+  
+  <div class="module module-narrow module-shallow context-info">
+    
+      <h2 class="module-heading"><i class="fa fa-building-o"></i> Organisation</h2>
+    
+    <section class="module-content">
+      
+      
+        <div class="image">
+          <a href="../organization/ef9c7908-df55-40a3-bccf-a9119a96579d">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Logo_ministere_transisiton_ecologique_2020.jpg" width="200" alt="mte___sdes" />
+          </a>
+        </div>
+      
+      
+      <h1 class="heading">MTE / SDES
+        
+      </h1>
+      
+      
+      
+        <p class="description">
+          Ministère de la Transition Ecologique / Sous-direction de la Donnée et Etudes Statistiques
+        </p>
+        <p class="read-more">
+          <a href="http://51.159.37.182:8080/organization/about/mte___sdes">lire plus</a>
+        </p>
+      
+      
+      
+      
+    </section>
+  </div>
+  
+    
+  
+
+  
+    
+
+  <section class="module module-narrow social">
+    
+      <h2 class="module-heading"><i class="fa fa-share-square-o"></i> Social</h2>
+    
+    
+      <ul class="nav nav-simple">
+        <li class="nav-item"><a href="https://twitter.com/share?url=http://51.159.37.182:8080/dataset/corine_land_cover?activity_id%3De1eb7c22-6914-49c6-93d8-bac7d4d2228b" target="_blank"><i class="fa fa-twitter-square"></i> Twitter</a></li>
+        <li class="nav-item"><a href="https://www.facebook.com/sharer.php?u=http://51.159.37.182:8080/dataset/corine_land_cover?activity_id%3De1eb7c22-6914-49c6-93d8-bac7d4d2228b" target="_blank"><i class="fa fa-facebook-square"></i> Facebook</a></li>
+      </ul>
+    
+  </section>
+
+  
+
+  
+    
+
+
+  
+      
+        <section class="module module-narrow module-shallow license">
+          
+            <h2 class="module-heading"><i class="fa fa-lock"></i> Licence</h2>
+          
+          
+            <p class="module-content">
+              
+                
+  
+    
+      <span property="dc:rights">Licence Ouverte Etalab</span>
+    
+  
+
+                
+              
+            </p>
+          
+        </section>
+      
+  
+
+  
+
+
+              </aside>
+            
+
+            
+              <div class="primary col-sm-9 col-xs-12" role="main">
+                
+                
+                  <article class="module">
+                    
+                      <header class="module-content page-header">
+                        
+                        <ul class="nav nav-tabs">
+                          
+  
+  <li class="active"><a href="http://51.159.37.182:8080/dataset/3f9226e8-5572-4db3-be0c-4de9eea3dcaf"><i class="fa fa-sitemap"></i> Jeu de données</a></li>
+  
+  <li><a href="http://51.159.37.182:8080/dataset/activity/3f9226e8-5572-4db3-be0c-4de9eea3dcaf"><i class="fa fa-clock-o"></i> Flux d'Activité</a></li>
+
+  <li><a href="http://51.159.37.182:8080/dataset/comments/3f9226e8-5572-4db3-be0c-4de9eea3dcaf"><i class="fa fa-comments"></i> Comments</a></li>
+
+                        </ul>
+                      </header>
+                    
+                    <div class="module-content">
+                      
+                      
+  
+                      
+  
+    
+    
+      
+        <div class="alert alert-danger">
+          You're currently viewing an old version of this dataset. To see the current version, click <a href="http://51.159.37.182:8080/dataset/3f9226e8-5572-4db3-be0c-4de9eea3dcaf">here</a>.
+        </div>
+      
+    
+    <h1>
+      
+        CORINE Land Cover
+        
+        
+      
+    </h1>
+    
+
+    
+    <span class="insert-comment-thread"></span>
+  
+
+  
+    
+<section id="dataset-resources" class="resources">
+  <h2>Données et ressources</h2>
+  
+    
+      
+          <p class="empty">Ce jeu de données est vide</p>
+      
+    
+    
+</section>
+  
+
+  
+    
+
+  
+
+  
+  <section class="additional-info">
+  <h3>Info additionnelle</h3>
+  <table class="table table-striped table-bordered table-condensed">
+    <thead>
+      <tr>
+        <th scope="col">Champ</th>
+        <th scope="col">Valeur</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row" class="dataset-label">Titre</th>
+        <td class="dataset-details">CORINE Land Cover</td>
+      </tr><tr>
+        <th scope="row" class="dataset-label">Description</th>
+        <td class="dataset-details"><p>Inventaire biophysique de l’occupation des sols et de son évolution selon une nomenclature en 44 postes. Cet inventaire est produit par interprétation visuelle d'images satellite. L'échelle de production est le 1/100 000. CLC permet de cartographier des unités homogènes d’occupation des sols d’une surface minimale de 25 ha. Cette base de données a été initiée en 1985. Les millésimes 1990, 2000, 2006, 2012 et 2018 ont été réalisés.</p></td>
+      </tr><tr>
+        <th scope="row" class="dataset-label">Mot-clefs</th>
+        <td class="dataset-details"></td>
+      </tr><tr>
+        <th scope="row" class="dataset-label">Source</th>
+        <td class="dataset-details" property="foaf:homepage"><a href="https://www.statistiques.developpement-durable.gouv.fr/corine-land-cover-0" rel="foaf:homepage" target="_blank">https://www.statistiques.developpement-durable.gouv.fr/corine-land-cover-0</a></td>
+      </tr><tr>
+        <th scope="row" class="dataset-label">Agent type - DCAT-AP</th>
+        <td class="dataset-details">Autorité nationale</td>
+      </tr><tr>
+        <th scope="row" class="dataset-label">Année de début - Année de fin</th>
+        <td class="dataset-details">1990, 2000, 2006, 2012, 2018</td>
+      </tr><tr>
+        <th scope="row" class="dataset-label">Autre(s) référentiel(s) associé(s)?</th>
+        <td class="dataset-details">Nomenclature CLC</td>
+      </tr><tr>
+        <th scope="row" class="dataset-label">Contact</th>
+        <td class="dataset-details"><a href="http://www.statistiques.developpement-durable.gouv.fr/n ous-contacter.html " rel="" target="_blank">http://www.statistiques.developpement-durable.gouv.fr/n ous-contacter.html </a></td>
+      </tr><tr>
+        <th scope="row" class="dataset-label">Date d&#39;intégration au catalogue</th>
+        <td class="dataset-details"></td>
+      </tr><tr>
+        <th scope="row" class="dataset-label">Date de dernière modification de l&#39;entrée dans le catalogue</th>
+        <td class="dataset-details"></td>
+      </tr><tr>
+        <th scope="row" class="dataset-label">Date de mise à jour de la donnée</th>
+        <td class="dataset-details"></td>
+      </tr><tr>
+        <th scope="row" class="dataset-label">Documentation</th>
+        <td class="dataset-details"><p>Métadonnées + Légende</p></td>
+      </tr><tr>
+        <th scope="row" class="dataset-label">Donnée géolocalisée/géospatiale ?</th>
+        <td class="dataset-details"></td>
+      </tr><tr>
+        <th scope="row" class="dataset-label">Données issues de mesures</th>
+        <td class="dataset-details">N</td>
+      </tr><tr>
+        <th scope="row" class="dataset-label">Filtrage des données</th>
+        <td class="dataset-details">N</td>
+      </tr><tr>
+        <th scope="row" class="dataset-label">Format des données</th>
+        <td class="dataset-details">vector</td>
+      </tr><tr>
+        <th scope="row" class="dataset-label">Format - DCAT-AP</th>
+        <td class="dataset-details">MapInfo TAB file / E00 / Esri Shape</td>
+      </tr><tr>
+        <th scope="row" class="dataset-label">Fréquence de réactualisation</th>
+        <td class="dataset-details">Tous les 6 ans environ</td>
+      </tr><tr>
+        <th scope="row" class="dataset-label">Mode de diffusion</th>
+        <td class="dataset-details">Portail</td>
+      </tr><tr>
+        <th scope="row" class="dataset-label">Moteur de recherche</th>
+        <td class="dataset-details">N</td>
+      </tr><tr>
+        <th scope="row" class="dataset-label">Nature</th>
+        <td class="dataset-details"></td>
+      </tr><tr>
+        <th scope="row" class="dataset-label">Milieu</th>
+        <td class="dataset-details"></td>
+      </tr><tr>
+        <th scope="row" class="dataset-label">Autre point d&#39;accès identifié</th>
+        <td class="dataset-details">DataGouv / Géoportail (uniquement visualisable et carte pdf téléchargeable)</td>
+      </tr><tr>
+        <th scope="row" class="dataset-label">Restrictions éventuelles</th>
+        <td class="dataset-details">/</td>
+      </tr><tr>
+        <th scope="row" class="dataset-label">licence type - DCAT-AP</th>
+        <td class="dataset-details">Attribution</td>
+      </tr><tr>
+        <th scope="row" class="dataset-label">Échelle temporelle des données</th>
+        <td class="dataset-details"></td>
+      </tr><tr>
+        <th scope="row" class="dataset-label">Niveau de détail géographique</th>
+        <td class="dataset-details">25 hectares au plus précis, échelle 1/100000</td>
+      </tr><tr>
+        <th scope="row" class="dataset-label">Référentiel(s) géographique(s) associé(s)?</th>
+        <td class="dataset-details">N</td>
+      </tr><tr>
+        <th scope="row" class="dataset-label">Si géolocalisée , avec quel système de projection?</th>
+        <td class="dataset-details">Lambert 2 étendu</td>
+      </tr><tr>
+        <th scope="row" class="dataset-label">Sigle</th>
+        <td class="dataset-details">CLC</td>
+      </tr><tr>
+        <th scope="row" class="dataset-label">Couverture spacial DCAT-AP</th>
+        <td class="dataset-details">FRA</td>
+      </tr><tr>
+        <th scope="row" class="dataset-label">Status</th>
+        <td class="dataset-details">O</td>
+      </tr><tr>
+        <th scope="row" class="dataset-label">Tarification</th>
+        <td class="dataset-details">Gratuit</td>
+      </tr><tr>
+        <th scope="row" class="dataset-label">Territoire administratif couvert</th>
+        <td class="dataset-details">France métropolitaine et DROM</td>
+      </tr><tr>
+        <th scope="row" class="dataset-label">Thématique</th>
+        <td class="dataset-details"></td>
+      </tr><tr>
+        <th scope="row" class="dataset-label">Type d&#39;organisme</th>
+        <td class="dataset-details">Ministère</td>
+      </tr><tr>
+        <th scope="row" class="dataset-label">Téléchargeable ?</th>
+        <td class="dataset-details">O</td>
+      </tr><tr>
+        <th scope="row" class="dataset-label">Theme / Catégorie - DCAT-AP</th>
+        <td class="dataset-details">Environnement</td>
+      </tr>
+
+    </tbody>
+  </table>
+</section>
+
+
+
+                    </div>
+                  </article>
+                
+              </div>
+            
+          </div>
+        
+      </div>
+    </div>
+  
+    <footer class="site-footer">
+  <div class="container">
+    
+    <div class="row">
+      <div class="col-md-8 footer-links">
+        
+          <ul class="list-unstyled">
+            
+              <li><a href="http://51.159.37.182:8080/about">À propos de Green Data For Health</a></li>
+            
+          </ul>
+          <ul class="list-unstyled">
+            
+              
+              <li><a href="http://docs.ckan.org/en/2.9/api/">API CKAN</a></li>
+              <li><a href="http://www.ckan.org/">Association CKAN</a></li>
+              <li><a href="http://www.opendefinition.org/okd/"><img src="http://51.159.37.182:8080/base/images/od_80x15_blue.png" alt="Open Data"></a></li>
+            
+          </ul>
+        
+      </div>
+      <div class="col-md-4 attribution">
+        
+          <p><strong>Généré par</strong> <a class="hide-text ckan-footer-logo" href="http://ckan.org">CKAN</a></p>
+        
+        
+          
+<form class="form-inline form-select lang-select" action="http://51.159.37.182:8080/util/redirect" data-module="select-switch" method="POST">
+  <label for="field-lang-select">Langue</label>
+  <select id="field-lang-select" name="url" data-module="autocomplete" data-module-dropdown-class="lang-dropdown" data-module-container-class="lang-container">
+    
+      <option value="/fr/dataset/corine_land_cover?activity_id=e1eb7c22-6914-49c6-93d8-bac7d4d2228b" selected="selected">
+        français
+      </option>
+    
+      <option value="/en/dataset/corine_land_cover?activity_id=e1eb7c22-6914-49c6-93d8-bac7d4d2228b" >
+        English
+      </option>
+    
+  </select>
+  <button class="btn btn-default js-hide" type="submit">Go</button>
+</form>
+        
+      </div>
+    </div>
+    
+  </div>
+
+  
+    
+  
+</footer>
+  
+  
+  
+  
+    
+  
+  
+    
+
+      
+
+    
+    
+    <link href="http://51.159.37.182:8080/webassets/vendor/f3b8236b_select2.css" rel="stylesheet"/>
+<link href="http://51.159.37.182:8080/webassets/vendor/0b01aef1_font-awesome.css" rel="stylesheet"/>
+    <script src="http://51.159.37.182:8080/webassets/vendor/d8ae4bed_jquery.js" type="text/javascript"></script>
+<script src="http://51.159.37.182:8080/webassets/vendor/fb6095a0_vendor.js" type="text/javascript"></script>
+<script src="http://51.159.37.182:8080/webassets/vendor/580fa18d_bootstrap.js" type="text/javascript"></script>
+<script src="http://51.159.37.182:8080/webassets/base/5f5a82bb_main.js" type="text/javascript"></script>
+<script src="http://51.159.37.182:8080/webassets/base/919ae274_ckan.js" type="text/javascript"></script>
+<script src="http://51.159.37.182:8080/webassets/base/cd2c0272_tracking.js" type="text/javascript"></script>
+  </body>
+</html>

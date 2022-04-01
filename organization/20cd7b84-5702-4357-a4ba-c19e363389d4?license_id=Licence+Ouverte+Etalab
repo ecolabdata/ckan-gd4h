@@ -1,0 +1,1075 @@
+<!DOCTYPE html>
+<!--[if IE 9]> <html lang="fr" class="ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="fr"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+      <meta name="generator" content="ckan 2.9.4" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IGN - Organisations - Green Data For Health</title>
+
+    
+    
+  <link rel="shortcut icon" href="http://51.159.37.182:8080/base/images/ckan.ico" />
+    
+  <link rel="alternate" type="application/atom+xml" title="Green Data For Health - Jeux de données de l'organisation : IGN" href="http://51.159.37.182:8080/feeds/organization/ign.atom" />
+
+  
+      
+      
+      
+      
+    
+  
+
+
+    
+      
+      
+    
+
+    
+    <link href="http://51.159.37.182:8080/webassets/base/eddf841d_green.css" rel="stylesheet"/>
+<link href="http://51.159.37.182:8080/webassets/ckanext-scheming/2deda21a_scheming_css.css" rel="stylesheet"/>
+    
+  </head>
+
+  
+  <body data-site-root="http://51.159.37.182:8080/" data-locale-root="http://51.159.37.182:8080/" >
+
+    
+    <div class="sr-only sr-only-focusable"><a href="20cd7b84-5702-4357-a4ba-c19e363389d4?license_id=Licence+Ouverte+Etalab#content">Passer directement au contenu</a></div>
+  
+
+  
+     
+<div class="account-masthead">
+  <div class="container">
+     
+    <nav class="account not-authed" aria-label="Account">
+      <ul class="list-unstyled">
+        
+        <li><a href="http://51.159.37.182:8080/user/login">Connexion</a></li>
+        
+        <li><a class="sub" href="http://51.159.37.182:8080/user/register">S'inscrire</a></li>
+         
+      </ul>
+    </nav>
+     
+  </div>
+</div>
+
+<header class="navbar navbar-static-top masthead">
+    
+  <div class="container">
+    <div class="navbar-right">
+      <button data-target="#main-navigation-toggle" data-toggle="collapse" class="navbar-toggle collapsed" type="button" aria-label="expand or collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="fa fa-bars"></span>
+      </button>
+    </div>
+    <hgroup class="header-image navbar-left">
+       
+      <a class="logo" href="http://51.159.37.182:8080/"><img src="http://51.159.37.182:8080/uploads/admin/2021-11-15-132638.132117CGDD.png" alt="Green Data For Health" title="Green Data For Health" /></a>
+       
+    </hgroup>
+
+    <div class="collapse navbar-collapse" id="main-navigation-toggle">
+      
+      <nav class="section navigation">
+        <ul class="nav nav-pills">
+            
+    <li><a href="http://51.159.37.182:8080/portal/">Portals</a></li><li><a href="http://51.159.37.182:8080/dataset/">Jeux de données</a></li><li><a href="http://51.159.37.182:8080/organization/">Organisations</a></li><li><a href="http://51.159.37.182:8080/about">À propos</a></li>
+
+        </ul>
+      </nav>
+       
+      <form class="section site-search simple-input" action="http://51.159.37.182:8080/dataset/" method="get">
+        <div class="field">
+          <label for="field-sitewide-search">Rechercher des jeux de données</label>
+          <input id="field-sitewide-search" type="text" class="form-control" name="q" placeholder="Rechercher" aria-label="Chercher des jeux de données"/>
+          <button class="btn-search" type="submit" aria-label="Submit"><i class="fa fa-search"></i></button>
+        </div>
+      </form>
+      
+    </div>
+  </div>
+</header>
+
+  
+    <div class="main">
+      <div id="content" class="container">
+        
+          
+            <div class="flash-messages">
+              
+                
+              
+            </div>
+          
+
+          
+            <div class="toolbar" role="navigation" aria-label="Breadcrumb">
+              
+                
+                  <ol class="breadcrumb">
+                    
+<li class="home"><a href="http://51.159.37.182:8080/" aria-label="Accueil"><i class="fa fa-home"></i><span> Accueil</span></a></li>
+                    
+  <li><a href="http://51.159.37.182:8080/organization/">Organisations</a></li>
+  <li class="active"><a href="20cd7b84-5702-4357-a4ba-c19e363389d4">IGN</a></li>
+
+                  </ol>
+                
+              
+            </div>
+          
+
+          <div class="row wrapper">
+            
+            
+            
+
+            
+              <aside class="secondary col-sm-3">
+                
+                
+  
+
+
+
+
+  
+  <div class="module module-narrow module-shallow context-info">
+    
+    <section class="module-content">
+      
+      
+        <div class="image">
+          <a href="20cd7b84-5702-4357-a4ba-c19e363389d4">
+            <img src="https://www.ign.fr/sites/default/files/styles/thumbnail/public/2020-06/logoIGN_300x200.png?itok=MT8RiLtp" width="200" alt="ign" />
+          </a>
+        </div>
+      
+      
+      <h1 class="heading">IGN
+        
+      </h1>
+      
+      
+      
+        <p class="description">
+          Institut Géographique National
+        </p>
+        <p class="read-more">
+          <a href="http://51.159.37.182:8080/organization/about/ign">lire plus</a>
+        </p>
+      
+      
+      
+        
+        <div class="nums">
+          <dl>
+            <dt>Abonnés</dt>
+            <dd data-module="followers-counter" data-module-id="20cd7b84-5702-4357-a4ba-c19e363389d4" data-module-num_followers="0"><span>0</span></dd>
+          </dl>
+          <dl>
+            <dt>Jeux de données</dt>
+            <dd><span>8</span></dd>
+          </dl>
+        </div>
+        
+        
+        <div class="follow_button">
+          
+        </div>
+        
+      
+      
+    </section>
+  </div>
+  
+  
+  <div class="filters">
+    <div>
+      
+        
+
+    
+    
+	
+	    
+	    
+		<section class="module module-narrow module-shallow">
+		    
+			<h2 class="module-heading">
+			    <i class="fa fa-filter"></i>
+			    
+			    Organisations
+			</h2>
+		    
+		    
+			
+			    
+				<nav aria-label="Organisations">
+				    <ul class="list-unstyled nav nav-simple nav-facet">
+					
+					    
+					    
+					    
+					    
+					    <li class="nav-item">
+						<a href="http://51.159.37.182:8080/organization/20cd7b84-5702-4357-a4ba-c19e363389d4?license_id=Licence+Ouverte+Etalab&amp;organization=ign" title="">
+						    <span class="item-label">IGN</span>
+						    <span class="hidden separator"> - </span>
+						    <span class="item-count badge">8</span>
+						</a>
+					    </li>
+					
+				    </ul>
+				</nav>
+
+				<p class="module-footer">
+				    
+					
+				    
+				</p>
+			    
+			
+		    
+		</section>
+	    
+	
+    
+
+      
+        
+
+    
+    
+	
+	    
+	    
+		<section class="module module-narrow module-shallow">
+		    
+			<h2 class="module-heading">
+			    <i class="fa fa-filter"></i>
+			    
+			    Groupes
+			</h2>
+		    
+		    
+			
+			    
+				<p class="module-content empty">Il n'y a pas de Groupes qui corresponde à cette recherche</p>
+			    
+			
+		    
+		</section>
+	    
+	
+    
+
+      
+        
+
+    
+    
+	
+	    
+	    
+		<section class="module module-narrow module-shallow">
+		    
+			<h2 class="module-heading">
+			    <i class="fa fa-filter"></i>
+			    
+			    Mots-clés
+			</h2>
+		    
+		    
+			
+			    
+				<nav aria-label="Mots-clés">
+				    <ul class="list-unstyled nav nav-simple nav-facet">
+					
+					    
+					    
+					    
+					    
+					    <li class="nav-item">
+						<a href="http://51.159.37.182:8080/organization/20cd7b84-5702-4357-a4ba-c19e363389d4?license_id=Licence+Ouverte+Etalab&amp;tags=Indicateurs+g%C3%A9ographiques+et+socio%C3%A9conomiques" title="Indicateurs géographiques et socioéconomiques">
+						    <span class="item-label">Indicateurs géograp...</span>
+						    <span class="hidden separator"> - </span>
+						    <span class="item-count badge">5</span>
+						</a>
+					    </li>
+					
+					    
+					    
+					    
+					    
+					    <li class="nav-item">
+						<a href="http://51.159.37.182:8080/organization/20cd7b84-5702-4357-a4ba-c19e363389d4?license_id=Licence+Ouverte+Etalab&amp;tags=Occupation+des+sols" title="">
+						    <span class="item-label">Occupation des sols</span>
+						    <span class="hidden separator"> - </span>
+						    <span class="item-count badge">2</span>
+						</a>
+					    </li>
+					
+					    
+					    
+					    
+					    
+					    <li class="nav-item">
+						<a href="http://51.159.37.182:8080/organization/20cd7b84-5702-4357-a4ba-c19e363389d4?license_id=Licence+Ouverte+Etalab&amp;tags=Agriculture" title="">
+						    <span class="item-label">Agriculture</span>
+						    <span class="hidden separator"> - </span>
+						    <span class="item-count badge">1</span>
+						</a>
+					    </li>
+					
+				    </ul>
+				</nav>
+
+				<p class="module-footer">
+				    
+					
+				    
+				</p>
+			    
+			
+		    
+		</section>
+	    
+	
+    
+
+      
+        
+
+    
+    
+	
+	    
+	    
+		<section class="module module-narrow module-shallow">
+		    
+			<h2 class="module-heading">
+			    <i class="fa fa-filter"></i>
+			    
+			    Formats
+			</h2>
+		    
+		    
+			
+			    
+				<p class="module-content empty">Il n'y a pas de Formats qui corresponde à cette recherche</p>
+			    
+			
+		    
+		</section>
+	    
+	
+    
+
+      
+        
+
+    
+    
+	
+	    
+	    
+		<section class="module module-narrow module-shallow">
+		    
+			<h2 class="module-heading">
+			    <i class="fa fa-filter"></i>
+			    
+			    Licenses
+			</h2>
+		    
+		    
+			
+			    
+				<nav aria-label="Licenses">
+				    <ul class="list-unstyled nav nav-simple nav-facet">
+					
+					    
+					    
+					    
+					    
+					    <li class="nav-item active">
+						<a href="http://51.159.37.182:8080/organization/20cd7b84-5702-4357-a4ba-c19e363389d4" title="">
+						    <span class="item-label">Licence Ouverte Etalab</span>
+						    <span class="hidden separator"> - </span>
+						    <span class="item-count badge">8</span>
+						</a>
+					    </li>
+					
+				    </ul>
+				</nav>
+
+				<p class="module-footer">
+				    
+					
+				    
+				</p>
+			    
+			
+		    
+		</section>
+	    
+	
+    
+
+      
+    </div>
+    <a class="close no-text hide-filters"><i class="fa fa-times-circle"></i><span class="text">close</span></a>
+  </div>
+
+
+              </aside>
+            
+
+            
+              <div class="primary col-sm-9 col-xs-12" role="main">
+                
+                
+                  <article class="module">
+                    
+                      <header class="module-content page-header">
+                        
+                        <ul class="nav nav-tabs">
+                          
+  <li class="active"><a href="20cd7b84-5702-4357-a4ba-c19e363389d4"><i class="fa fa-sitemap"></i> Jeux de données</a></li>
+  <li><a href="http://51.159.37.182:8080/organization/activity/ign/0"><i class="fa fa-clock-o"></i> Flux d'Activité</a></li>
+  <li><a href="http://51.159.37.182:8080/organization/about/ign"><i class="fa fa-info-circle"></i> À propos</a></li>
+
+                        </ul>
+                      </header>
+                    
+                    <div class="module-content">
+                      
+                      
+    
+      
+      
+      
+
+
+
+
+
+
+
+<form id="organization-datasets-search-form" class="search-form" method="get" data-module="select-switch">
+
+  
+    <div class="input-group search-input-group">
+      <input aria-label="Rechercher les jeux des données..." id="field-giant-search" type="text" class="form-control input-lg" name="q" value="" autocomplete="off" placeholder="Rechercher les jeux des données...">
+      
+      <span class="input-group-btn">
+        <button class="btn btn-default btn-lg" type="submit" value="search" aria-label="Submit">
+          <i class="fa fa-search"></i>
+        </button>
+      </span>
+      
+    </div>
+  
+
+  
+    <span>
+  
+  
+
+  
+  
+  
+  <input type="hidden" name="license_id" value="Licence Ouverte Etalab" />
+  
+  
+  
+  </span>
+  
+
+  
+    
+      <div class="form-select form-group control-order-by">
+        <label for="field-order-by">Trier par</label>
+        <select id="field-order-by" name="sort" class="form-control">
+          
+            
+              <option value="score desc, metadata_modified desc">Pertinence</option>
+            
+          
+            
+              <option value="title_string asc">Nom croissant</option>
+            
+          
+            
+              <option value="title_string desc">Nom décroissant</option>
+            
+          
+            
+              <option value="metadata_modified desc">Modifié le</option>
+            
+          
+            
+              <option value="views_recent desc">Populaire</option>
+            
+          
+        </select>
+        
+        <button class="btn btn-default js-hide" type="submit">Go</button>
+        
+      </div>
+    
+  
+
+  
+    
+      <h1>
+
+  
+  
+  
+  
+
+8 jeux de données trouvés</h1>
+    
+  
+
+  
+    
+      <p class="filter-list">
+        
+          
+          <span class="facet">Licenses:</span>
+          
+            <span class="filtered pill">Licence Ouverte Etalab
+              <a href="20cd7b84-5702-4357-a4ba-c19e363389d4" class="remove" title="Supprimer"><i class="fa fa-times"></i></a>
+            </span>
+          
+        
+      </p>
+      <a class="show-filters btn btn-default">Filtrer les resultats</a>
+    
+  
+
+</form>
+
+
+
+
+    
+  
+    
+      
+
+  
+    <ul class="dataset-list list-unstyled">
+    	
+	      
+	        
+
+
+
+
+
+
+
+  <li class="dataset-item">
+    
+      <div class="dataset-content">
+        
+          <h2 class="dataset-heading">
+            
+              
+            
+            
+    
+        
+    
+    
+    <a href="../dataset/ea60d494-3c00-409e-a92b-fcd0ab41f84f">Carte topographique IGN</a>    
+
+
+            
+              
+              
+            
+          </h2>
+        
+        
+          
+        
+        
+
+    
+        
+    
+
+    
+        <div>La carte topographique représente avec précision le relief, symbolisé par des courbes de niveaux, ainsi que les détails du terrain : routes, sentiers, constructions, bois,...</div>
+    
+
+      </div>
+      
+        
+      
+    
+  </li>
+
+	      
+	        
+
+
+
+
+
+
+
+  <li class="dataset-item">
+    
+      <div class="dataset-content">
+        
+          <h2 class="dataset-heading">
+            
+              
+            
+            
+    
+        
+    
+    
+    <a href="../dataset/8a6dea53-0a1a-4aa8-b4b9-44525cae5a4b">Carte IGN</a>    
+
+
+            
+              
+              
+            
+          </h2>
+        
+        
+          
+        
+        
+
+    
+        
+    
+
+    
+        <div>Fond cartographique proposé par l’Institut national de l’information géographique et forestière (IGN).</div>
+    
+
+      </div>
+      
+        
+      
+    
+  </li>
+
+	      
+	        
+
+
+
+
+
+
+
+  <li class="dataset-item">
+    
+      <div class="dataset-content">
+        
+          <h2 class="dataset-heading">
+            
+              
+            
+            
+    
+        
+    
+    
+    <a href="../dataset/6fe9c1d7-a322-41c5-bb60-22443bdfc5b6">Limites administratives</a>    
+
+
+            
+              
+              
+            
+          </h2>
+        
+        
+          
+        
+        
+
+    
+        
+    
+
+    
+        <div>Limites administratives des collectivités territoriales, mises à jour en continu.
+Régions, départements, cantons, communes, arrondissements (pour Paris, Lyon et Marseille) et...</div>
+    
+
+      </div>
+      
+        
+      
+    
+  </li>
+
+	      
+	        
+
+
+
+
+
+
+
+  <li class="dataset-item">
+    
+      <div class="dataset-content">
+        
+          <h2 class="dataset-heading">
+            
+              
+            
+            
+    
+        
+    
+    
+    <a href="../dataset/8197d033-f100-441b-883a-61425c77fe02">Contours IRIS</a>    
+
+
+            
+              
+              
+            
+          </h2>
+        
+        
+          
+        
+        
+
+    
+        
+    
+
+    
+        <div>Contours géométriques des zones définies par l’INSEE pour les besoins des recensements sur l’ensemble des communes de plus de 10 000 habitants et la plupart des communes de 5...</div>
+    
+
+      </div>
+      
+        
+      
+    
+  </li>
+
+	      
+	        
+
+
+
+
+
+
+
+  <li class="dataset-item">
+    
+      <div class="dataset-content">
+        
+          <h2 class="dataset-heading">
+            
+              
+            
+            
+    
+        
+    
+    
+    <a href="../dataset/deac1f9a-856e-4125-9424-48977ef2d0de">Adresses</a>    
+
+
+            
+              
+              
+            
+          </h2>
+        
+        
+          
+        
+        
+
+    
+        
+    
+
+    
+        <div>Localisation des adresses sur tout le territoire national.</div>
+    
+
+      </div>
+      
+        
+      
+    
+  </li>
+
+	      
+	        
+
+
+
+
+
+
+
+  <li class="dataset-item">
+    
+      <div class="dataset-content">
+        
+          <h2 class="dataset-heading">
+            
+              
+            
+            
+    
+        
+    
+    
+    <a href="../dataset/53bbeaad-79d1-4881-abea-cd9eca41ff3d">Délimitations parcellaires AOC viticoles (INAO)</a>    
+
+
+            
+              
+              
+            
+          </h2>
+        
+        
+          
+        
+        
+
+    
+        
+    
+
+    
+        <div>Représentation des délimitations parcellaires des appellations d’origine contrôlée (AOC) viticoles sur la France métropolitaine.</div>
+    
+
+      </div>
+      
+        
+      
+    
+  </li>
+
+	      
+	        
+
+
+
+
+
+
+
+  <li class="dataset-item">
+    
+      <div class="dataset-content">
+        
+          <h2 class="dataset-heading">
+            
+              
+            
+            
+    
+        
+    
+    
+    <a href="../dataset/4ddf050e-759f-442c-948b-0a58ac375c84">Cartes des sols métropolitains</a>    
+
+
+            
+              
+              
+            
+          </h2>
+        
+        
+          
+        
+        
+
+    
+        
+    
+
+    
+        <div>Représentation des différents types de sols dominants en France métropolitaine.</div>
+    
+
+      </div>
+      
+        
+      
+    
+  </li>
+
+	      
+	        
+
+
+
+
+
+
+
+  <li class="dataset-item">
+    
+      <div class="dataset-content">
+        
+          <h2 class="dataset-heading">
+            
+              
+            
+            
+    
+        
+    
+    
+    <a href="../dataset/006cd3b0-807f-413f-8c7d-75e0cb4f447c">Occupation du sol à grande échelle</a>    
+
+
+            
+              
+              
+            
+          </h2>
+        
+        
+          
+        
+        
+
+    
+        
+    
+
+    
+        <div>Visualisation des zones de prairie, taux d’imperméabilité du sol, en France métropolitaine et dans les départements et régions d’outre-mer (DROM). Version de 2015 et de...</div>
+    
+
+      </div>
+      
+        
+      
+    
+  </li>
+
+	      
+	    
+    </ul>
+  
+
+    
+  
+  
+    
+  
+
+                    </div>
+                  </article>
+                
+              </div>
+            
+          </div>
+        
+      </div>
+    </div>
+  
+    <footer class="site-footer">
+  <div class="container">
+    
+    <div class="row">
+      <div class="col-md-8 footer-links">
+        
+          <ul class="list-unstyled">
+            
+              <li><a href="http://51.159.37.182:8080/about">À propos de Green Data For Health</a></li>
+            
+          </ul>
+          <ul class="list-unstyled">
+            
+              
+              <li><a href="http://docs.ckan.org/en/2.9/api/">API CKAN</a></li>
+              <li><a href="http://www.ckan.org/">Association CKAN</a></li>
+              <li><a href="http://www.opendefinition.org/okd/"><img src="http://51.159.37.182:8080/base/images/od_80x15_blue.png" alt="Open Data"></a></li>
+            
+          </ul>
+        
+      </div>
+      <div class="col-md-4 attribution">
+        
+          <p><strong>Généré par</strong> <a class="hide-text ckan-footer-logo" href="http://ckan.org">CKAN</a></p>
+        
+        
+          
+<form class="form-inline form-select lang-select" action="http://51.159.37.182:8080/util/redirect" data-module="select-switch" method="POST">
+  <label for="field-lang-select">Langue</label>
+  <select id="field-lang-select" name="url" data-module="autocomplete" data-module-dropdown-class="lang-dropdown" data-module-container-class="lang-container">
+    
+      <option value="/fr/organization/ign?license_id=Licence+Ouverte+Etalab" selected="selected">
+        français
+      </option>
+    
+      <option value="/en/organization/ign?license_id=Licence+Ouverte+Etalab" >
+        English
+      </option>
+    
+  </select>
+  <button class="btn btn-default js-hide" type="submit">Go</button>
+</form>
+        
+      </div>
+    </div>
+    
+  </div>
+
+  
+    
+  
+</footer>
+  
+  
+  
+  
+    
+  
+  
+    
+
+      
+
+    
+    
+    <link href="http://51.159.37.182:8080/webassets/vendor/f3b8236b_select2.css" rel="stylesheet"/>
+<link href="http://51.159.37.182:8080/webassets/vendor/0b01aef1_font-awesome.css" rel="stylesheet"/>
+    <script src="http://51.159.37.182:8080/webassets/vendor/d8ae4bed_jquery.js" type="text/javascript"></script>
+<script src="http://51.159.37.182:8080/webassets/vendor/fb6095a0_vendor.js" type="text/javascript"></script>
+<script src="http://51.159.37.182:8080/webassets/vendor/580fa18d_bootstrap.js" type="text/javascript"></script>
+<script src="http://51.159.37.182:8080/webassets/base/5f5a82bb_main.js" type="text/javascript"></script>
+<script src="http://51.159.37.182:8080/webassets/base/919ae274_ckan.js" type="text/javascript"></script>
+<script src="http://51.159.37.182:8080/webassets/base/cd2c0272_tracking.js" type="text/javascript"></script>
+  </body>
+</html>
